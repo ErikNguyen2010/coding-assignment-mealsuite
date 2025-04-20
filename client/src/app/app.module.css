@@ -1,3 +1,30 @@
 .app {
-  padding: 10px;
+  min-height: 100vh;
+  width: 100%;
+  background: linear-gradient(to bottom right, #f8f9fa, #e9ecef);
+  padding: 2rem;
+  overflow: hidden;
+  box-sizing: border-box;
+  backdrop-filter: blur(10px);
+}
+
+.app h1 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: #1a1a1a;
+  margin: 0 0 2rem;
+  text-align: center;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* Add this to your index.html or global CSS */
+:global(body) {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
 }

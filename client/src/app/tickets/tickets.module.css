@@ -1,2 +1,13 @@
-.tickets {
+.ticket-card-container {
+  gap: 1rem;
+  padding: 1rem;
+  margin: 0 auto;
+  max-width: 1440px;
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 16px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  height: calc(100vh - 8rem);
+  min-height: 400px;
+  overflow-y: auto;
 }
