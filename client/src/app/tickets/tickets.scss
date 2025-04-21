@@ -1,0 +1,55 @@
+.ticket-card-container {
+  gap: 1rem;
+  padding: 1rem;
+  margin: 0 auto;
+  max-width: 1440px;
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 16px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  height: 38rem;
+  min-height: 600px;
+  overflow-y: auto;
+}
+
+.action-buttons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+
+  button {
+    min-width: 120px;
+    padding: 8px 24px;
+    font-weight: 500;
+    text-transform: none;
+    transition: all 0.2s ease-in-out;
+    border-radius: 8px;
+    font-size: 1rem;
+
+    &:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+    }
+  }
+  .add-task-button {
+    &.MuiButton-contained {
+      background: linear-gradient(45deg, #1976d2, #2196f3);
+      color: white;
+
+      &:hover {
+        background: linear-gradient(45deg, #1565c0, #1976d2);
+      }
+    }
+  }
+  .filter-button {
+    &.MuiButton-contained {
+      background: linear-gradient(45deg, #56d15c, #6dd18b);
+      color: white;
+
+      &:hover {
+        background: linear-gradient(45deg, #1a9782, #0ba88e);
+      }
+    }
+  }
+}

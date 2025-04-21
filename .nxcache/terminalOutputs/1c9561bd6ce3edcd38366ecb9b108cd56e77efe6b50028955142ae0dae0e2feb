@@ -1,0 +1,1405 @@
+[1m[2mDetermining test suites to run...[22m[22m[999D[K
+
+[1mTest Suites: [22m0 of 2 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s, estimated 9 s
+[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticketDetail/[22m[1mticketDetail.spec.tsx[22m
+
+[1mTest Suites: [22m0 of 2 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s, estimated 9 s
+[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticketDetail/[22m[1mticketDetail.spec.tsx[22m
+
+[1mTest Suites: [22m0 of 2 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        1 s, estimated 9 s
+[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticketDetail/[22m[1mticketDetail.spec.tsx[22m
+
+[1mTest Suites: [22m0 of 2 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        2 s, estimated 9 s
+[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticketDetail/[22m[1mticketDetail.spec.tsx[22m
+
+[1mTest Suites: [22m0 of 2 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        3 s, estimated 9 s
+[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticketDetail/[22m[1mticketDetail.spec.tsx[22m
+
+[1mTest Suites: [22m0 of 2 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        4 s, estimated 9 s
+[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticketDetail/[22m[1mticketDetail.spec.tsx[22m
+
+[1mTest Suites: [22m0 of 2 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        5 s, estimated 9 s
+[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticketDetail/[22m[1mticketDetail.spec.tsx[22m
+
+[1mTest Suites: [22m0 of 2 total
+[1mTests:       [22m[1m[32m3 passed[39m[22m, 3 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        5 s, estimated 9 s
+[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticketDetail/[22m[1mticketDetail.spec.tsx[22m
+
+[1mTest Suites: [22m0 of 2 total
+[1mTests:       [22m[1m[32m4 passed[39m[22m, 4 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        5 s, estimated 9 s
+[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticketDetail/[22m[1mticketDetail.spec.tsx[22m
+
+[1mTest Suites: [22m0 of 2 total
+[1mTests:       [22m[1m[31m1 failed[39m[22m, [1m[32m5 passed[39m[22m, 6 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        6 s, estimated 9 s
+[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticketDetail/[22m[1mticketDetail.spec.tsx[22m
+
+[1mTest Suites: [22m0 of 2 total
+[1mTests:       [22m[1m[31m1 failed[39m[22m, [1m[32m7 passed[39m[22m, 8 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        6 s, estimated 9 s
+[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[0m[7m[1m[31m FAIL [39m[22m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticketDetail/[22m[1mticketDetail.spec.tsx[22m
+
+[1mTest Suites: [22m0 of 2 total
+[1mTests:       [22m[1m[31m1 failed[39m[22m, [1m[32m7 passed[39m[22m, 8 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        6 s, estimated 9 s
+[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A  [1m● [22mConsole
+
+    [2m[31mconsole.error[39m[22m
+[31m      Warning: Invalid DOM property `stroke-width`. Did you mean `strokeWidth`?[39m
+[31m          at path[39m
+[31m          at g[39m
+[31m          at g[39m
+[31m          at svg[39m
+[31m          at div[39m
+[31m          at C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@emotion\react\dist\emotion-element-a1829a1e.cjs.js:58:23[39m
+[31m          at Box (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@mui\system\createBox\createBox.js:27:41)[39m
+[31m          at style (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\client\src\component\Loading\index.tsx:4:20)[39m
+[31m          at div[39m
+[31m          at C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@emotion\react\dist\emotion-element-a1829a1e.cjs.js:58:23[39m
+[31m          at Grid (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@mui\system\Grid\createGrid.js:85:19)[39m
+[31m          at div[39m
+[31m          at C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@emotion\react\dist\emotion-element-a1829a1e.cjs.js:58:23[39m
+[31m          at Box (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@mui\system\createBox\createBox.js:27:41)[39m
+[31m          at tickets (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\client\src\app\tickets\tickets.tsx:38:11)[39m
+[31m          at basenameProp (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\react-router-dom\node_modules\react-router\lib\components.tsx:290:13)[39m
+[31m          at basename (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\react-router-dom\index.tsx:244:3)[39m
+[2m[22m
+[2m      [2mat printWarning ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:86:30)[22m[2m[22m
+[2m      [2mat error ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:60:7)[22m[2m[22m
+[2m      [2mat validateProperty$1 ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3749:9)[22m[2m[22m
+[2m      [2mat warnUnknownProperties ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3803:21)[22m[2m[22m
+[2m      [2mat validateProperties$2 ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3827:3)[22m[2m[22m
+[2m      [2mat validatePropertiesInDevelopment ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:9541:5)[22m[2m[22m
+[2m      [2mat setInitialProperties ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:9830:5)[22m[2m[22m
+[2m      [2mat finalizeInitialChildren ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:10950:3)[22m[2m[22m
+
+    [2m[31mconsole.error[39m[22m
+[31m      Warning: Invalid DOM property `fill-opacity`. Did you mean `fillOpacity`?[39m
+[31m          at path[39m
+[31m          at g[39m
+[31m          at svg[39m
+[31m          at div[39m
+[31m          at C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@emotion\react\dist\emotion-element-a1829a1e.cjs.js:58:23[39m
+[31m          at Box (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@mui\system\createBox\createBox.js:27:41)[39m
+[31m          at style (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\client\src\component\Loading\index.tsx:4:20)[39m
+[31m          at div[39m
+[31m          at C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@emotion\react\dist\emotion-element-a1829a1e.cjs.js:58:23[39m
+[31m          at Grid (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@mui\system\Grid\createGrid.js:85:19)[39m
+[31m          at div[39m
+[31m          at C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@emotion\react\dist\emotion-element-a1829a1e.cjs.js:58:23[39m
+[31m          at Box (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@mui\system\createBox\createBox.js:27:41)[39m
+[31m          at tickets (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\client\src\app\tickets\tickets.tsx:38:11)[39m
+[31m          at basenameProp (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\react-router-dom\node_modules\react-router\lib\components.tsx:290:13)[39m
+[31m          at basename (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\react-router-dom\index.tsx:244:3)[39m
+[2m[22m
+[2m      [2mat printWarning ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:86:30)[22m[2m[22m
+[2m      [2mat error ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:60:7)[22m[2m[22m
+[2m      [2mat validateProperty$1 ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3749:9)[22m[2m[22m
+[2m      [2mat warnUnknownProperties ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3803:21)[22m[2m[22m
+[2m      [2mat validateProperties$2 ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3827:3)[22m[2m[22m
+[2m      [2mat validatePropertiesInDevelopment ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:9541:5)[22m[2m[22m
+[2m      [2mat setInitialProperties ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:9830:5)[22m[2m[22m
+[2m      [2mat finalizeInitialChildren ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:10950:3)[22m[2m[22m
+
+    [2m[31mconsole.error[39m[22m
+[31m      Warning: Invalid DOM property `stop-color`. Did you mean `stopColor`?[39m
+[31m          at stop[39m
+[31m          at linearGradient[39m
+[31m          at defs[39m
+[31m          at svg[39m
+[31m          at div[39m
+[31m          at C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@emotion\react\dist\emotion-element-a1829a1e.cjs.js:58:23[39m
+[31m          at Box (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@mui\system\createBox\createBox.js:27:41)[39m
+[31m          at style (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\client\src\component\Loading\index.tsx:4:20)[39m
+[31m          at div[39m
+[31m          at C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@emotion\react\dist\emotion-element-a1829a1e.cjs.js:58:23[39m
+[31m          at Grid (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@mui\system\Grid\createGrid.js:85:19)[39m
+[31m          at div[39m
+[31m          at C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@emotion\react\dist\emotion-element-a1829a1e.cjs.js:58:23[39m
+[31m          at Box (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@mui\system\createBox\createBox.js:27:41)[39m
+[31m          at tickets (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\client\src\app\tickets\tickets.tsx:38:11)[39m
+[31m          at basenameProp (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\react-router-dom\node_modules\react-router\lib\components.tsx:290:13)[39m
+[31m          at basename (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\react-router-dom\index.tsx:244:3)[39m
+[2m[22m
+[2m      [2mat printWarning ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:86:30)[22m[2m[22m
+[2m      [2mat error ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:60:7)[22m[2m[22m
+[2m      [2mat validateProperty$1 ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3749:9)[22m[2m[22m
+[2m      [2mat warnUnknownProperties ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3803:21)[22m[2m[22m
+[2m      [2mat validateProperties$2 ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3827:3)[22m[2m[22m
+[2m      [2mat validatePropertiesInDevelopment ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:9541:5)[22m[2m[22m
+[2m      [2mat setInitialProperties ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:9830:5)[22m[2m[22m
+[2m      [2mat finalizeInitialChildren ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:10950:3)[22m[2m[22m
+
+    [2m[31mconsole.error[39m[22m
+[31m      Warning: Invalid DOM property `stop-opacity`. Did you mean `stopOpacity`?[39m
+[31m          at stop[39m
+[31m          at linearGradient[39m
+[31m          at defs[39m
+[31m          at svg[39m
+[31m          at div[39m
+[31m          at C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@emotion\react\dist\emotion-element-a1829a1e.cjs.js:58:23[39m
+[31m          at Box (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@mui\system\createBox\createBox.js:27:41)[39m
+[31m          at style (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\client\src\component\Loading\index.tsx:4:20)[39m
+[31m          at div[39m
+[31m          at C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@emotion\react\dist\emotion-element-a1829a1e.cjs.js:58:23[39m
+[31m          at Grid (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@mui\system\Grid\createGrid.js:85:19)[39m
+[31m          at div[39m
+[31m          at C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@emotion\react\dist\emotion-element-a1829a1e.cjs.js:58:23[39m
+[31m          at Box (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@mui\system\createBox\createBox.js:27:41)[39m
+[31m          at tickets (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\client\src\app\tickets\tickets.tsx:38:11)[39m
+[31m          at basenameProp (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\react-router-dom\node_modules\react-router\lib\components.tsx:290:13)[39m
+[31m          at basename (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\react-router-dom\index.tsx:244:3)[39m
+[2m[22m
+[2m      [2mat printWarning ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:86:30)[22m[2m[22m
+[2m      [2mat error ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:60:7)[22m[2m[22m
+[2m      [2mat validateProperty$1 ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3749:9)[22m[2m[22m
+[2m      [2mat warnUnknownProperties ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3803:21)[22m[2m[22m
+[2m      [2mat validateProperties$2 ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3827:3)[22m[2m[22m
+[2m      [2mat validatePropertiesInDevelopment ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:9541:5)[22m[2m[22m
+[2m      [2mat setInitialProperties ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:9830:5)[22m[2m[22m
+[2m      [2mat finalizeInitialChildren ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:10950:3)[22m[2m[22m
+
+    [2m[31mconsole.error[39m[22m
+[31m      Warning: Each child in a list should have a unique "key" prop.[39m
+[31m      [39m
+[31m      Check the render method of `Tickets`. See https://reactjs.org/link/warning-keys for more information.[39m
+[31m          at Suspense[39m
+[31m          at tickets (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\client\src\app\tickets\tickets.tsx:38:11)[39m
+[31m          at basenameProp (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\react-router-dom\node_modules\react-router\lib\components.tsx:290:13)[39m
+[31m          at basename (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\react-router-dom\index.tsx:244:3)[39m
+[2m[22m
+[2m    [0m [90m 121 |[39m         [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[22m
+[2m     [90m 122 |[39m[22m
+[2m    [31m[1m>[22m[2m[39m[90m 123 |[39m         [33m<[39m[33mGrid[39m className[33m=[39m{[32m"ticket-card-container"[39m} container spacing[33m=[39m{[35m2[39m}[33m>[39m[22m
+[2m     [90m     |[39m         [31m[1m^[22m[2m[39m[22m
+[2m     [90m 124 |[39m           {isLoading [33m?[39m [33m<[39m[33mLoading[39m [33m/[39m[33m>[39m [33m:[39m handleRenderTicketCard()}[22m
+[2m     [90m 125 |[39m         [33m<[39m[33m/[39m[33mGrid[39m[33m>[39m[22m
+[2m     [90m 126 |[39m       [33m<[39m[33m/[39m[33mBox[39m[33m>[39m[0m[22m
+[2m[22m
+[2m      [2mat printWarning ([22m[2m../node_modules/react/cjs/react-jsx-runtime.development.js[2m:87:30)[22m[2m[22m
+[2m      [2mat error ([22m[2m../node_modules/react/cjs/react-jsx-runtime.development.js[2m:61:7)[22m[2m[22m
+[2m      [2mat validateExplicitKey ([22m[2m../node_modules/react/cjs/react-jsx-runtime.development.js[2m:1078:5)[22m[2m[22m
+[2m      [2mat validateChildKeys ([22m[2m../node_modules/react/cjs/react-jsx-runtime.development.js[2m:1105:11)[22m[2m[22m
+[2m      [2mat jsxWithValidation ([22m[2m../node_modules/react/cjs/react-jsx-runtime.development.js[2m:1276:11)[22m[2m[22m
+[2m      [2mat jsxWithValidationDynamic ([22m[2m../node_modules/react/cjs/react-jsx-runtime.development.js[2m:1301:12)[22m[2m[22m
+[2m      [2mat Tickets ([22m[2msrc/app/tickets/tickets.tsx[2m:123:9)[22m[2m[22m
+[2m      [2mat renderWithHooks ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:16305:18)[22m[2m[22m
+
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticketDetail/[22m[1mticketDetail.spec.tsx[22m
+
+[1mTest Suites: [22m0 of 2 total
+[1mTests:       [22m[1m[31m1 failed[39m[22m, [1m[32m7 passed[39m[22m, 8 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        6 s, estimated 9 s
+[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[1m[31m  [1m● [22m[1mTickets Component › should filter completed tickets when selected[39m[22m
+
+    The given element does not have a value setter
+[2m[22m
+[2m    [0m [90m 82 |[39m     [36mconst[39m dialog [33m=[39m screen[33m.[39mgetByRole([32m"dialog"[39m)[33m;[39m[22m
+[2m     [90m 83 |[39m     [36mconst[39m select [33m=[39m within(dialog)[33m.[39mgetByRole([32m"combobox"[39m)[33m;[39m[22m
+[2m    [31m[1m>[22m[2m[39m[90m 84 |[39m     fireEvent[33m.[39mchange(select[33m,[39m { target[33m:[39m { value[33m:[39m [32m"completed"[39m } })[33m;[39m[22m
+[2m     [90m    |[39m               [31m[1m^[22m[2m[39m[22m
+[2m     [90m 85 |[39m[22m
+[2m     [90m 86 |[39m     [90m// Should only show completed tasks[39m[22m
+[2m     [90m 87 |[39m     [36mconst[39m descriptions [33m=[39m screen[33m.[39mgetAllByText([35m/Task \d/[39m)[33m;[39m[0m[22m
+[2m[22m
+[2m      [2mat setNativeValue ([22m[2m../node_modules/@testing-library/dom/dist/events.js[2m:131:13)[22m[2m[22m
+[2m      [2mat createEvent ([22m[2m../node_modules/@testing-library/dom/dist/events.js[2m:41:5)[22m[2m[22m
+[2m      [2mat Function.createEvent.<computed> [as change] ([22m[2m../node_modules/@testing-library/dom/dist/events.js[2m:106:38)[22m[2m[22m
+[2m      [2mat Function.fireEvent.<computed> [as change] ([22m[2m../node_modules/@testing-library/dom/dist/events.js[2m:110:68)[22m[2m[22m
+[2m      [2mat Function.fireEvent.<computed> [as change] ([22m[2m../node_modules/@testing-library/react/dist/fire-event.js[2m:18:52)[22m[2m[22m
+[2m      [2mat Object.change ([22m[2m[0m[36msrc/app/tickets/tickets.spec.tsx[39m[0m[2m:84:15)[22m[2m[22m
+
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticketDetail/[22m[1mticketDetail.spec.tsx[22m
+
+[1mTest Suites: [22m0 of 2 total
+[1mTests:       [22m[1m[31m1 failed[39m[22m, [1m[32m7 passed[39m[22m, 8 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        6 s, estimated 9 s
+[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticketDetail/[22m[1mticketDetail.spec.tsx[22m
+
+[1mTest Suites: [22m0 of 2 total
+[1mTests:       [22m[1m[31m1 failed[39m[22m, [1m[32m7 passed[39m[22m, 8 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        6 s, estimated 9 s
+[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticketDetail/[22m[1mticketDetail.spec.tsx[22m
+
+[1mTest Suites: [22m[1m[31m1 failed[39m[22m, 1 of 2 total
+[1mTests:       [22m[1m[31m1 failed[39m[22m, [1m[32m7 passed[39m[22m, 8 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        6 s, estimated 9 s
+[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticketDetail/[22m[1mticketDetail.spec.tsx[22m
+
+[1mTest Suites: [22m[1m[31m1 failed[39m[22m, 1 of 2 total
+[1mTests:       [22m[1m[31m2 failed[39m[22m, [1m[32m7 passed[39m[22m, 9 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        6 s, estimated 9 s
+[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticketDetail/[22m[1mticketDetail.spec.tsx[22m
+
+[1mTest Suites: [22m[1m[31m1 failed[39m[22m, 1 of 2 total
+[1mTests:       [22m[1m[31m2 failed[39m[22m, [1m[32m7 passed[39m[22m, 9 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        7 s, estimated 9 s
+[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticketDetail/[22m[1mticketDetail.spec.tsx[22m
+
+[1mTest Suites: [22m[1m[31m1 failed[39m[22m, 1 of 2 total
+[1mTests:       [22m[1m[31m3 failed[39m[22m, [1m[32m7 passed[39m[22m, 10 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        7 s, estimated 9 s
+[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticketDetail/[22m[1mticketDetail.spec.tsx[22m
+
+[1mTest Suites: [22m[1m[31m1 failed[39m[22m, 1 of 2 total
+[1mTests:       [22m[1m[31m3 failed[39m[22m, [1m[32m7 passed[39m[22m, 10 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        8 s, estimated 9 s
+[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticketDetail/[22m[1mticketDetail.spec.tsx[22m
+
+[1mTest Suites: [22m[1m[31m1 failed[39m[22m, 1 of 2 total
+[1mTests:       [22m[1m[31m4 failed[39m[22m, [1m[32m7 passed[39m[22m, 11 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        8 s, estimated 9 s
+[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticketDetail/[22m[1mticketDetail.spec.tsx[22m
+
+[1mTest Suites: [22m[1m[31m1 failed[39m[22m, 1 of 2 total
+[1mTests:       [22m[1m[31m4 failed[39m[22m, [1m[32m7 passed[39m[22m, 11 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        9 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticketDetail/[22m[1mticketDetail.spec.tsx[22m
+
+[1mTest Suites: [22m[1m[31m1 failed[39m[22m, 1 of 2 total
+[1mTests:       [22m[1m[31m5 failed[39m[22m, [1m[32m7 passed[39m[22m, 12 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        9 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticketDetail/[22m[1mticketDetail.spec.tsx[22m
+
+[1mTest Suites: [22m[1m[31m1 failed[39m[22m, 1 of 2 total
+[1mTests:       [22m[1m[31m5 failed[39m[22m, [1m[32m7 passed[39m[22m, 12 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        [1m[33m10 s[39m[22m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticketDetail/[22m[1mticketDetail.spec.tsx[22m
+
+[1mTest Suites: [22m[1m[31m1 failed[39m[22m, 1 of 2 total
+[1mTests:       [22m[1m[31m6 failed[39m[22m, [1m[32m7 passed[39m[22m, 13 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        [1m[33m10 s[39m[22m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticketDetail/[22m[1mticketDetail.spec.tsx[22m
+
+[1mTest Suites: [22m[1m[31m1 failed[39m[22m, 1 of 2 total
+[1mTests:       [22m[1m[31m6 failed[39m[22m, [1m[32m7 passed[39m[22m, 13 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        [1m[33m11 s[39m[22m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[0m[7m[1m[31m FAIL [39m[22m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticketDetail/[22m[1mticketDetail.spec.tsx[22m ([0m[1m[41m10.097 s[49m[22m[0m)
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticketDetail/[22m[1mticketDetail.spec.tsx[22m
+
+[1mTest Suites: [22m[1m[31m1 failed[39m[22m, 1 of 2 total
+[1mTests:       [22m[1m[31m6 failed[39m[22m, [1m[32m7 passed[39m[22m, 13 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        [1m[33m11 s[39m[22m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A  [1m● [22mConsole
+
+    [2m[31mconsole.error[39m[22m
+[31m      Warning: Invalid DOM property `stroke-width`. Did you mean `strokeWidth`?[39m
+[31m          at path[39m
+[31m          at g[39m
+[31m          at g[39m
+[31m          at svg[39m
+[31m          at div[39m
+[31m          at C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@emotion\react\dist\emotion-element-a1829a1e.cjs.js:58:23[39m
+[31m          at Box (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@mui\system\createBox\createBox.js:27:41)[39m
+[31m          at style (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\client\src\component\Loading\index.tsx:4:20)[39m
+[31m          at users (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\client\src\app\ticketDetail\index.tsx:38:11)[39m
+[31m          at basenameProp (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\react-router-dom\node_modules\react-router\lib\components.tsx:290:13)[39m
+[31m          at basename (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\react-router-dom\index.tsx:244:3)[39m
+[2m[22m
+[2m      [2mat printWarning ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:86:30)[22m[2m[22m
+[2m      [2mat error ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:60:7)[22m[2m[22m
+[2m      [2mat validateProperty$1 ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3749:9)[22m[2m[22m
+[2m      [2mat warnUnknownProperties ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3803:21)[22m[2m[22m
+[2m      [2mat validateProperties$2 ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3827:3)[22m[2m[22m
+[2m      [2mat validatePropertiesInDevelopment ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:9541:5)[22m[2m[22m
+[2m      [2mat setInitialProperties ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:9830:5)[22m[2m[22m
+[2m      [2mat finalizeInitialChildren ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:10950:3)[22m[2m[22m
+
+    [2m[31mconsole.error[39m[22m
+[31m      Warning: Invalid DOM property `fill-opacity`. Did you mean `fillOpacity`?[39m
+[31m          at path[39m
+[31m          at g[39m
+[31m          at svg[39m
+[31m          at div[39m
+[31m          at C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@emotion\react\dist\emotion-element-a1829a1e.cjs.js:58:23[39m
+[31m          at Box (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@mui\system\createBox\createBox.js:27:41)[39m
+[31m          at style (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\client\src\component\Loading\index.tsx:4:20)[39m
+[31m          at users (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\client\src\app\ticketDetail\index.tsx:38:11)[39m
+[31m          at basenameProp (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\react-router-dom\node_modules\react-router\lib\components.tsx:290:13)[39m
+[31m          at basename (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\react-router-dom\index.tsx:244:3)[39m
+[2m[22m
+[2m      [2mat printWarning ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:86:30)[22m[2m[22m
+[2m      [2mat error ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:60:7)[22m[2m[22m
+[2m      [2mat validateProperty$1 ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3749:9)[22m[2m[22m
+[2m      [2mat warnUnknownProperties ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3803:21)[22m[2m[22m
+[2m      [2mat validateProperties$2 ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3827:3)[22m[2m[22m
+[2m      [2mat validatePropertiesInDevelopment ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:9541:5)[22m[2m[22m
+[2m      [2mat setInitialProperties ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:9830:5)[22m[2m[22m
+[2m      [2mat finalizeInitialChildren ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:10950:3)[22m[2m[22m
+
+    [2m[31mconsole.error[39m[22m
+[31m      Warning: Invalid DOM property `stop-color`. Did you mean `stopColor`?[39m
+[31m          at stop[39m
+[31m          at linearGradient[39m
+[31m          at defs[39m
+[31m          at svg[39m
+[31m          at div[39m
+[31m          at C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@emotion\react\dist\emotion-element-a1829a1e.cjs.js:58:23[39m
+[31m          at Box (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@mui\system\createBox\createBox.js:27:41)[39m
+[31m          at style (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\client\src\component\Loading\index.tsx:4:20)[39m
+[31m          at users (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\client\src\app\ticketDetail\index.tsx:38:11)[39m
+[31m          at basenameProp (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\react-router-dom\node_modules\react-router\lib\components.tsx:290:13)[39m
+[31m          at basename (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\react-router-dom\index.tsx:244:3)[39m
+[2m[22m
+[2m      [2mat printWarning ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:86:30)[22m[2m[22m
+[2m      [2mat error ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:60:7)[22m[2m[22m
+[2m      [2mat validateProperty$1 ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3749:9)[22m[2m[22m
+[2m      [2mat warnUnknownProperties ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3803:21)[22m[2m[22m
+[2m      [2mat validateProperties$2 ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3827:3)[22m[2m[22m
+[2m      [2mat validatePropertiesInDevelopment ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:9541:5)[22m[2m[22m
+[2m      [2mat setInitialProperties ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:9830:5)[22m[2m[22m
+[2m      [2mat finalizeInitialChildren ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:10950:3)[22m[2m[22m
+
+    [2m[31mconsole.error[39m[22m
+[31m      Warning: Invalid DOM property `stop-opacity`. Did you mean `stopOpacity`?[39m
+[31m          at stop[39m
+[31m          at linearGradient[39m
+[31m          at defs[39m
+[31m          at svg[39m
+[31m          at div[39m
+[31m          at C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@emotion\react\dist\emotion-element-a1829a1e.cjs.js:58:23[39m
+[31m          at Box (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@mui\system\createBox\createBox.js:27:41)[39m
+[31m          at style (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\client\src\component\Loading\index.tsx:4:20)[39m
+[31m          at users (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\client\src\app\ticketDetail\index.tsx:38:11)[39m
+[31m          at basenameProp (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\react-router-dom\node_modules\react-router\lib\components.tsx:290:13)[39m
+[31m          at basename (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\react-router-dom\index.tsx:244:3)[39m
+[2m[22m
+[2m      [2mat printWarning ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:86:30)[22m[2m[22m
+[2m      [2mat error ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:60:7)[22m[2m[22m
+[2m      [2mat validateProperty$1 ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3749:9)[22m[2m[22m
+[2m      [2mat warnUnknownProperties ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3803:21)[22m[2m[22m
+[2m      [2mat validateProperties$2 ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3827:3)[22m[2m[22m
+[2m      [2mat validatePropertiesInDevelopment ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:9541:5)[22m[2m[22m
+[2m      [2mat setInitialProperties ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:9830:5)[22m[2m[22m
+[2m      [2mat finalizeInitialChildren ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:10950:3)[22m[2m[22m
+
+    [2m[31mconsole.error[39m[22m
+[31m      Error: Error: Response for preflight has invalid HTTP status code 404[39m
+[31m          at Object.dispatchError (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\xhr\xhr-utils.js:63:19)[39m
+[31m          at EventEmitter.<anonymous> (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\xhr\XMLHttpRequest-impl.js:655:18)[39m
+[31m          at EventEmitter.emit (node:events:525:35)[39m
+[31m          at Request.<anonymous> (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\xhr\xhr-utils.js:370:16)[39m
+[31m          at Request.emit (node:events:513:28)[39m
+[31m          at Request._processResponse (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\helpers\http-request.js:228:12)[39m
+[31m          at ClientRequest.<anonymous> (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\helpers\http-request.js:101:12)[39m
+[31m          at Object.onceWrapper (node:events:628:26)[39m
+[31m          at ClientRequest.emit (node:events:513:28)[39m
+[31m          at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:693:27) {[39m
+[31m        type: 'XMLHttpRequest'[39m
+[31m      }[39m
+[2m[22m
+[2m      [2mat VirtualConsole.<anonymous> ([22m[2m../node_modules/jest-environment-jsdom/build/index.js[2m:70:23)[22m[2m[22m
+[2m      [2mat Object.dispatchError ([22m[2m../node_modules/jsdom/lib/jsdom/living/xhr/xhr-utils.js[2m:66:53)[22m[2m[22m
+[2m      [2mat EventEmitter.<anonymous> ([22m[2m../node_modules/jsdom/lib/jsdom/living/xhr/XMLHttpRequest-impl.js[2m:655:18)[22m[2m[22m
+[2m      [2mat Request.<anonymous> ([22m[2m../node_modules/jsdom/lib/jsdom/living/xhr/xhr-utils.js[2m:370:16)[22m[2m[22m
+[2m      [2mat Request._processResponse ([22m[2m../node_modules/jsdom/lib/jsdom/living/helpers/http-request.js[2m:228:12)[22m[2m[22m
+
+    [2m[31mconsole.error[39m[22m
+[31m      Error: Error: Response for preflight has invalid HTTP status code 404[39m
+[31m          at Object.dispatchError (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\xhr\xhr-utils.js:63:19)[39m
+[31m          at EventEmitter.<anonymous> (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\xhr\XMLHttpRequest-impl.js:655:18)[39m
+[31m          at EventEmitter.emit (node:events:525:35)[39m
+[31m          at Request.<anonymous> (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\xhr\xhr-utils.js:370:16)[39m
+[31m          at Request.emit (node:events:513:28)[39m
+[31m          at Request._processResponse (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\helpers\http-request.js:228:12)[39m
+[31m          at ClientRequest.<anonymous> (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\helpers\http-request.js:101:12)[39m
+[31m          at Object.onceWrapper (node:events:628:26)[39m
+[31m          at ClientRequest.emit (node:events:513:28)[39m
+[31m          at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:693:27) {[39m
+[31m        type: 'XMLHttpRequest'[39m
+[31m      }[39m
+[2m[22m
+[2m      [2mat VirtualConsole.<anonymous> ([22m[2m../node_modules/jest-environment-jsdom/build/index.js[2m:70:23)[22m[2m[22m
+[2m      [2mat Object.dispatchError ([22m[2m../node_modules/jsdom/lib/jsdom/living/xhr/xhr-utils.js[2m:66:53)[22m[2m[22m
+[2m      [2mat EventEmitter.<anonymous> ([22m[2m../node_modules/jsdom/lib/jsdom/living/xhr/XMLHttpRequest-impl.js[2m:655:18)[22m[2m[22m
+[2m      [2mat Request.<anonymous> ([22m[2m../node_modules/jsdom/lib/jsdom/living/xhr/xhr-utils.js[2m:370:16)[22m[2m[22m
+[2m      [2mat Request._processResponse ([22m[2m../node_modules/jsdom/lib/jsdom/living/helpers/http-request.js[2m:228:12)[22m[2m[22m
+
+    [2m[31mconsole.error[39m[22m
+[31m      Error: Error: Response for preflight has invalid HTTP status code 404[39m
+[31m          at Object.dispatchError (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\xhr\xhr-utils.js:63:19)[39m
+[31m          at EventEmitter.<anonymous> (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\xhr\XMLHttpRequest-impl.js:655:18)[39m
+[31m          at EventEmitter.emit (node:events:525:35)[39m
+[31m          at Request.<anonymous> (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\xhr\xhr-utils.js:370:16)[39m
+[31m          at Request.emit (node:events:513:28)[39m
+[31m          at Request._processResponse (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\helpers\http-request.js:228:12)[39m
+[31m          at ClientRequest.<anonymous> (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\helpers\http-request.js:101:12)[39m
+[31m          at Object.onceWrapper (node:events:628:26)[39m
+[31m          at ClientRequest.emit (node:events:513:28)[39m
+[31m          at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:693:27) {[39m
+[31m        type: 'XMLHttpRequest'[39m
+[31m      }[39m
+[2m[22m
+[2m      [2mat VirtualConsole.<anonymous> ([22m[2m../node_modules/jest-environment-jsdom/build/index.js[2m:70:23)[22m[2m[22m
+[2m      [2mat Object.dispatchError ([22m[2m../node_modules/jsdom/lib/jsdom/living/xhr/xhr-utils.js[2m:66:53)[22m[2m[22m
+[2m      [2mat EventEmitter.<anonymous> ([22m[2m../node_modules/jsdom/lib/jsdom/living/xhr/XMLHttpRequest-impl.js[2m:655:18)[22m[2m[22m
+[2m      [2mat Request.<anonymous> ([22m[2m../node_modules/jsdom/lib/jsdom/living/xhr/xhr-utils.js[2m:370:16)[22m[2m[22m
+[2m      [2mat Request._processResponse ([22m[2m../node_modules/jsdom/lib/jsdom/living/helpers/http-request.js[2m:228:12)[22m[2m[22m
+
+    [2m[31mconsole.error[39m[22m
+[31m      Error: Error: Response for preflight has invalid HTTP status code 404[39m
+[31m          at Object.dispatchError (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\xhr\xhr-utils.js:63:19)[39m
+[31m          at EventEmitter.<anonymous> (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\xhr\XMLHttpRequest-impl.js:655:18)[39m
+[31m          at EventEmitter.emit (node:events:525:35)[39m
+[31m          at Request.<anonymous> (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\xhr\xhr-utils.js:370:16)[39m
+[31m          at Request.emit (node:events:513:28)[39m
+[31m          at Request._processResponse (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\helpers\http-request.js:228:12)[39m
+[31m          at ClientRequest.<anonymous> (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\helpers\http-request.js:101:12)[39m
+[31m          at Object.onceWrapper (node:events:628:26)[39m
+[31m          at ClientRequest.emit (node:events:513:28)[39m
+[31m          at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:693:27) {[39m
+[31m        type: 'XMLHttpRequest'[39m
+[31m      }[39m
+[2m[22m
+[2m      [2mat VirtualConsole.<anonymous> ([22m[2m../node_modules/jest-environment-jsdom/build/index.js[2m:70:23)[22m[2m[22m
+[2m      [2mat Object.dispatchError ([22m[2m../node_modules/jsdom/lib/jsdom/living/xhr/xhr-utils.js[2m:66:53)[22m[2m[22m
+[2m      [2mat EventEmitter.<anonymous> ([22m[2m../node_modules/jsdom/lib/jsdom/living/xhr/XMLHttpRequest-impl.js[2m:655:18)[22m[2m[22m
+[2m      [2mat Request.<anonymous> ([22m[2m../node_modules/jsdom/lib/jsdom/living/xhr/xhr-utils.js[2m:370:16)[22m[2m[22m
+[2m      [2mat Request._processResponse ([22m[2m../node_modules/jsdom/lib/jsdom/living/helpers/http-request.js[2m:228:12)[22m[2m[22m
+
+    [2m[31mconsole.error[39m[22m
+[31m      Error: Error: Response for preflight has invalid HTTP status code 404[39m
+[31m          at Object.dispatchError (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\xhr\xhr-utils.js:63:19)[39m
+[31m          at EventEmitter.<anonymous> (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\xhr\XMLHttpRequest-impl.js:655:18)[39m
+[31m          at EventEmitter.emit (node:events:525:35)[39m
+[31m          at Request.<anonymous> (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\xhr\xhr-utils.js:370:16)[39m
+[31m          at Request.emit (node:events:513:28)[39m
+[31m          at Request._processResponse (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\helpers\http-request.js:228:12)[39m
+[31m          at ClientRequest.<anonymous> (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\helpers\http-request.js:101:12)[39m
+[31m          at Object.onceWrapper (node:events:628:26)[39m
+[31m          at ClientRequest.emit (node:events:513:28)[39m
+[31m          at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:693:27) {[39m
+[31m        type: 'XMLHttpRequest'[39m
+[31m      }[39m
+[2m[22m
+[2m      [2mat VirtualConsole.<anonymous> ([22m[2m../node_modules/jest-environment-jsdom/build/index.js[2m:70:23)[22m[2m[22m
+[2m      [2mat Object.dispatchError ([22m[2m../node_modules/jsdom/lib/jsdom/living/xhr/xhr-utils.js[2m:66:53)[22m[2m[22m
+[2m      [2mat EventEmitter.<anonymous> ([22m[2m../node_modules/jsdom/lib/jsdom/living/xhr/XMLHttpRequest-impl.js[2m:655:18)[22m[2m[22m
+[2m      [2mat Request.<anonymous> ([22m[2m../node_modules/jsdom/lib/jsdom/living/xhr/xhr-utils.js[2m:370:16)[22m[2m[22m
+[2m      [2mat Request._processResponse ([22m[2m../node_modules/jsdom/lib/jsdom/living/helpers/http-request.js[2m:228:12)[22m[2m[22m
+
+    [2m[31mconsole.error[39m[22m
+[31m      Error: Error: Response for preflight has invalid HTTP status code 404[39m
+[31m          at Object.dispatchError (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\xhr\xhr-utils.js:63:19)[39m
+[31m          at EventEmitter.<anonymous> (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\xhr\XMLHttpRequest-impl.js:655:18)[39m
+[31m          at EventEmitter.emit (node:events:525:35)[39m
+[31m          at Request.<anonymous> (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\xhr\xhr-utils.js:370:16)[39m
+[31m          at Request.emit (node:events:513:28)[39m
+[31m          at Request._processResponse (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\helpers\http-request.js:228:12)[39m
+[31m          at ClientRequest.<anonymous> (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\helpers\http-request.js:101:12)[39m
+[31m          at Object.onceWrapper (node:events:628:26)[39m
+[31m          at ClientRequest.emit (node:events:513:28)[39m
+[31m          at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:693:27) {[39m
+[31m        type: 'XMLHttpRequest'[39m
+[31m      }[39m
+[2m[22m
+[2m      [2mat VirtualConsole.<anonymous> ([22m[2m../node_modules/jest-environment-jsdom/build/index.js[2m:70:23)[22m[2m[22m
+[2m      [2mat Object.dispatchError ([22m[2m../node_modules/jsdom/lib/jsdom/living/xhr/xhr-utils.js[2m:66:53)[22m[2m[22m
+[2m      [2mat EventEmitter.<anonymous> ([22m[2m../node_modules/jsdom/lib/jsdom/living/xhr/XMLHttpRequest-impl.js[2m:655:18)[22m[2m[22m
+[2m      [2mat Request.<anonymous> ([22m[2m../node_modules/jsdom/lib/jsdom/living/xhr/xhr-utils.js[2m:370:16)[22m[2m[22m
+[2m      [2mat Request._processResponse ([22m[2m../node_modules/jsdom/lib/jsdom/living/helpers/http-request.js[2m:228:12)[22m[2m[22m
+
+    [2m[31mconsole.error[39m[22m
+[31m      Error: Error: Response for preflight has invalid HTTP status code 404[39m
+[31m          at Object.dispatchError (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\xhr\xhr-utils.js:63:19)[39m
+[31m          at EventEmitter.<anonymous> (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\xhr\XMLHttpRequest-impl.js:655:18)[39m
+[31m          at EventEmitter.emit (node:events:525:35)[39m
+[31m          at Request.<anonymous> (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\xhr\xhr-utils.js:370:16)[39m
+[31m          at Request.emit (node:events:513:28)[39m
+[31m          at Request._processResponse (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\helpers\http-request.js:228:12)[39m
+[31m          at ClientRequest.<anonymous> (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\jsdom\lib\jsdom\living\helpers\http-request.js:101:12)[39m
+[31m          at Object.onceWrapper (node:events:628:26)[39m
+[31m          at ClientRequest.emit (node:events:513:28)[39m
+[31m          at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:693:27) {[39m
+[31m        type: 'XMLHttpRequest'[39m
+[31m      }[39m
+[2m[22m
+[2m      [2mat VirtualConsole.<anonymous> ([22m[2m../node_modules/jest-environment-jsdom/build/index.js[2m:70:23)[22m[2m[22m
+[2m      [2mat Object.dispatchError ([22m[2m../node_modules/jsdom/lib/jsdom/living/xhr/xhr-utils.js[2m:66:53)[22m[2m[22m
+[2m      [2mat EventEmitter.<anonymous> ([22m[2m../node_modules/jsdom/lib/jsdom/living/xhr/XMLHttpRequest-impl.js[2m:655:18)[22m[2m[22m
+[2m      [2mat Request.<anonymous> ([22m[2m../node_modules/jsdom/lib/jsdom/living/xhr/xhr-utils.js[2m:370:16)[22m[2m[22m
+[2m      [2mat Request._processResponse ([22m[2m../node_modules/jsdom/lib/jsdom/living/helpers/http-request.js[2m:228:12)[22m[2m[22m
+
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticketDetail/[22m[1mticketDetail.spec.tsx[22m
+
+[1mTest Suites: [22m[1m[31m1 failed[39m[22m, 1 of 2 total
+[1mTests:       [22m[1m[31m6 failed[39m[22m, [1m[32m7 passed[39m[22m, 13 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        [1m[33m11 s[39m[22m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[1m[31m  [1m● [22m[1mTicketDetail Component › should display ticket details after loading[39m[22m
+
+    TypeError: Cannot read properties of undefined (reading 'data')
+[2m[22m
+[2m    [0m [90m 35 |[39m       [36mreturn[39m {[22m
+[2m     [90m 36 |[39m         isError[33m:[39m [36mtrue[39m[33m,[39m[22m
+[2m    [31m[1m>[22m[2m[39m[90m 37 |[39m         errData[33m:[39m err[33m.[39mresponse[33m.[39mdata[33m,[39m[22m
+[2m     [90m    |[39m                               [31m[1m^[22m[2m[39m[22m
+[2m     [90m 38 |[39m       }[33m;[39m[22m
+[2m     [90m 39 |[39m     }[22m
+[2m     [90m 40 |[39m   }[0m[22m
+[2m[22m
+[2m      [2mat Object.data [as fetchTicketDetail] ([22m[2msrc/services/ticketService.ts[2m:37:31)[22m[2m[22m
+[2m      [2mat [22m[2msrc/app/ticketDetail/index.tsx[2m:83:19[22m[2m[22m
+
+[1m[31m  [1m● [22m[1mTicketDetail Component › should display ticket details after loading[39m[22m
+
+    TypeError: Cannot read properties of undefined (reading 'data')
+[2m[22m
+[2m    [0m [90m 35 |[39m       [36mreturn[39m {[22m
+[2m     [90m 36 |[39m         isError[33m:[39m [36mtrue[39m[33m,[39m[22m
+[2m    [31m[1m>[22m[2m[39m[90m 37 |[39m         errData[33m:[39m err[33m.[39mresponse[33m.[39mdata[33m,[39m[22m
+[2m     [90m    |[39m                               [31m[1m^[22m[2m[39m[22m
+[2m     [90m 38 |[39m       }[33m;[39m[22m
+[2m     [90m 39 |[39m     }[22m
+[2m     [90m 40 |[39m   }[0m[22m
+[2m[22m
+[2m      [2mat Object.data [as fetchTicketDetail] ([22m[2msrc/services/ticketService.ts[2m:37:31)[22m[2m[22m
+[2m      [2mat [22m[2msrc/app/ticketDetail/index.tsx[2m:83:19[22m[2m[22m
+
+[1m[31m  [1m● [22m[1mTicketDetail Component › should display ticket details after loading[39m[22m
+
+    Unable to find an element with the text: Test Task. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.
+
+    Ignored nodes: comments, script, style
+    [36m<body>[39m
+      [36m<div>[39m
+        [36m<div[39m
+          [33mclass[39m=[32m"MuiBox-root css-1u4vew7"[39m
+          [33mdata-testid[39m=[32m"loading"[39m
+        [36m>[39m
+          [36m<svg[39m
+            [33mfill[39m=[32m"none"[39m
+            [33mheight[39m=[32m"136"[39m
+            [33mid[39m=[32m"svg-global"[39m
+            [33mviewBox[39m=[32m"0 0 94 136"[39m
+            [33mwidth[39m=[32m"94"[39m
+            [33mxmlns[39m=[32m"http://www.w3.org/2000/svg"[39m
+          [36m>[39m
+            [36m<path[39m
+              [33md[39m=[32m"M87.3629 108.433L49.1073 85.3765C47.846 84.6163 45.8009 84.6163 44.5395 85.3765L6.28392 108.433C5.02255 109.194 5.02255 110.426 6.28392 111.187L44.5395 134.243C45.8009 135.004 47.846 135.004 49.1073 134.243L87.3629 111.187C88.6243 110.426 88.6243 109.194 87.3629 108.433Z"[39m
+              [33mid[39m=[32m"line-v1"[39m
+              [33mstroke[39m=[32m"#4B22B5"[39m
+            [36m/>[39m
+            [36m<path[39m
+              [33md[39m=[32m"M91.0928 95.699L49.2899 70.5042C47.9116 69.6734 45.6769 69.6734 44.2986 70.5042L2.49568 95.699C1.11735 96.5298 1.11735 97.8767 2.49568 98.7074L44.2986 123.902C45.6769 124.733 47.9116 124.733 49.2899 123.902L91.0928 98.7074C92.4712 97.8767 92.4712 96.5298 91.0928 95.699Z"[39m
+              [33mid[39m=[32m"line-v2"[39m
+              [33mstroke[39m=[32m"#5728CC"[39m
+            [36m/>[39m
+            [36m<g[39m
+              [33mid[39m=[32m"node-server"[39m
+            [36m>[39m
+              [36m<path[39m
+                [33md[39m=[32m"M2.48637 72.0059L43.8699 96.9428C45.742 98.0709 48.281 97.8084 50.9284 96.2133L91.4607 71.7833C92.1444 71.2621 92.4197 70.9139 92.5421 70.1257V86.1368C92.5421 86.9686 92.0025 87.9681 91.3123 88.3825C84.502 92.4724 51.6503 112.204 50.0363 113.215C48.2352 114.343 45.3534 114.343 43.5523 113.215C41.9261 112.197 8.55699 91.8662 2.08967 87.926C1.39197 87.5011 1.00946 86.5986 1.00946 85.4058V70.1257C1.11219 70.9289 1.49685 71.3298 2.48637 72.0059Z"[39m
+                [33mfill[39m=[32m"url(#paint0_linear_204_217)"[39m
+              [36m/>[39m
+              [36m<path[39m
+                [33md[39m=[32m"M91.0928 68.7324L49.2899 43.5375C47.9116 42.7068 45.6769 42.7068 44.2986 43.5375L2.49568 68.7324C1.11735 69.5631 1.11735 70.91 2.49568 71.7407L44.2986 96.9356C45.6769 97.7663 47.9116 97.7663 49.2899 96.9356L91.0928 71.7407C92.4712 70.91 92.4712 69.5631 91.0928 68.7324Z"[39m
+                [33mfill[39m=[32m"url(#paint1_linear_204_217)"[39m
+                [33mstroke[39m=[32m"url(#paint2_linear_204_217)"[39m
+              [36m/>[39m
+              [36m<mask[39m
+                [33mheight[39m=[32m"41"[39m
+                [33mid[39m=[32m"mask0_204_217"[39m
+                [33mmaskUnits[39m=[32m"userSpaceOnUse"[39m
+                [33mstyle[39m=[32m"mask-type: luminance;"[39m
+                [33mwidth[39m=[32m"67"[39m
+                [33mx[39m=[32m"13"[39m
+                [33my[39m=[32m"50"[39m
+              [36m>[39m
+                [36m<path[39m
+                  [33md[39m=[32m"M78.3486 68.7324L49.0242 51.0584C47.6459 50.2276 45.4111 50.2276 44.0328 51.0584L14.7084 68.7324C13.3301 69.5631 13.3301 70.91 14.7084 71.7407L44.0328 89.4148C45.4111 90.2455 47.6459 90.2455 49.0242 89.4148L78.3486 71.7407C79.7269 70.91 79.727 69.5631 78.3486 68.7324Z"[39m
+                  [33mfill[39m=[32m"white"[39m
+                [36m/>[39m
+              [36m</mask>[39m
+              [36m<g[39m
+                [33mmask[39m=[32m"url(#mask0_204_217)"[39m
+              [36m>[39m
+                [36m<path[39m
+                  [33md[39m=[32m"M78.3486 68.7324L49.0242 51.0584C47.6459 50.2276 45.4111 50.2276 44.0328 51.0584L14.7084 68.7324C13.3301 69.5631 13.3301 70.91 14.7084 71.7407L44.0328 89.4148C45.4111 90.2455 47.6459 90.2455 49.0242 89.4148L78.3486 71.7407C79.7269 70.91 79.727 69.5631 78.3486 68.7324Z"[39m
+                  [33mfill[39m=[32m"#332C94"[39m
+                [36m/>[39m
+                [36m<mask[39m
+                  [33mheight[39m=[32m"29"[39m
+                  [33mid[39m=[32m"mask1_204_217"[39m
+                  [33mmaskUnits[39m=[32m"userSpaceOnUse"[39m
+                  [33mstyle[39m=[32m"mask-type: luminance;"[39m
+                  [33mwidth[39m=[32m"48"[39m
+                  [33mx[39m=[32m"23"[39m
+                  [33my[39m=[32m"56"[39m
+                [36m>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M68.9898 68.7324L49.0242 56.699C47.6459 55.8683 45.4111 55.8683 44.0328 56.699L24.0673 68.7324C22.6889 69.5631 22.6889 70.91 24.0673 71.7407L44.0328 83.7741C45.4111 84.6048 47.6459 84.6048 49.0242 83.7741L68.9898 71.7407C70.3681 70.91 70.3681 69.5631 68.9898 68.7324Z"[39m
+                    [33mfill[39m=[32m"white"[39m
+                  [36m/>[39m
+                [36m</mask>[39m
+                [36m<g[39m
+                  [33mmask[39m=[32m"url(#mask1_204_217)"[39m
+                [36m>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M68.9898 68.7324L49.0242 56.699C47.6459 55.8683 45.4111 55.8683 44.0328 56.699L24.0673 68.7324C22.6889 69.5631 22.6889 70.91 24.0673 71.7407L44.0328 83.7741C45.4111 84.6048 47.6459 84.6048 49.0242 83.7741L68.9898 71.7407C70.3681 70.91 70.3681 69.5631 68.9898 68.7324Z"[39m
+                    [33mfill[39m=[32m"#5E5E5E"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M70.1311 69.3884L48.42 56.303C47.3863 55.6799 45.7103 55.6799 44.6765 56.303L22.5275 69.6523C21.4938 70.2754 21.4938 71.2855 22.5275 71.9086L44.2386 84.994C45.2723 85.617 46.9484 85.617 47.9821 84.994L70.1311 71.6446C71.1648 71.0216 71.1648 70.0114 70.1311 69.3884Z"[39m
+                    [33mfill[39m=[32m"#71B1C6"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M70.131 70.8923L48.4199 57.8069C47.3862 57.1839 45.7101 57.1839 44.6764 57.8069L22.5274 71.1562C21.4937 71.7793 21.4937 72.7894 22.5274 73.4125L44.2385 86.4979C45.2722 87.1209 46.9482 87.1209 47.982 86.4979L70.131 73.1486C71.1647 72.5255 71.1647 71.5153 70.131 70.8923Z"[39m
+                    [33mfill[39m=[32m"#80C0D4"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M69.751 72.1675L48.4199 59.3111C47.3862 58.6881 45.7101 58.6881 44.6764 59.3111L23.2004 72.2548C22.1667 72.8779 22.1667 73.888 23.2004 74.5111L44.5315 87.3674C45.5653 87.9905 47.2413 87.9905 48.2751 87.3674L69.751 74.4238C70.7847 73.8007 70.7847 72.7905 69.751 72.1675Z"[39m
+                    [33mfill[39m=[32m"#89D3EB"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M68.5091 72.9231L48.4199 60.8153C47.3862 60.1922 45.7101 60.1922 44.6764 60.8153L24.8146 72.7861C23.7808 73.4091 23.7808 74.4193 24.8146 75.0424L44.9038 87.1502C45.9375 87.7733 47.6135 87.7733 48.6473 87.1502L68.5091 75.1794C69.5428 74.5563 69.5428 73.5462 68.5091 72.9231Z"[39m
+                    [33mfill[39m=[32m"#97E6FF"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M66.6747 ...
+[2m[22m
+[2m    [0m [90m 61 |[39m   it([32m"should display ticket details after loading"[39m[33m,[39m [36masync[39m () [33m=>[39m {[22m
+[2m     [90m 62 |[39m     [36mawait[39m renderComponent()[33m;[39m[22m
+[2m    [31m[1m>[22m[2m[39m[90m 63 |[39m     [36mawait[39m waitFor(() [33m=>[39m {[22m
+[2m     [90m    |[39m                  [31m[1m^[22m[2m[39m[22m
+[2m     [90m 64 |[39m       expect(screen[33m.[39mgetByText([32m"Test Task"[39m))[33m.[39mtoBeInTheDocument()[33m;[39m[22m
+[2m     [90m 65 |[39m       expect(screen[33m.[39mgetByText([32m"Unassigned"[39m))[33m.[39mtoBeInTheDocument()[33m;[39m[22m
+[2m     [90m 66 |[39m       expect(screen[33m.[39mgetByText([32m"Incomplete"[39m))[33m.[39mtoBeInTheDocument()[33m;[39m[0m[22m
+[2m[22m
+[2m      [2mat waitForWrapper ([22m[2m../node_modules/@testing-library/dom/dist/wait-for.js[2m:166:27)[22m[2m[22m
+[2m      [2mat Object.<anonymous> ([22m[2m[0m[36msrc/app/ticketDetail/ticketDetail.spec.tsx[39m[0m[2m:63:18)[22m[2m[22m
+
+[1m[31m  [1m● [22m[1mTicketDetail Component › should handle marking ticket as completed[39m[22m
+
+    TypeError: Cannot read properties of undefined (reading 'data')
+[2m[22m
+[2m    [0m [90m 35 |[39m       [36mreturn[39m {[22m
+[2m     [90m 36 |[39m         isError[33m:[39m [36mtrue[39m[33m,[39m[22m
+[2m    [31m[1m>[22m[2m[39m[90m 37 |[39m         errData[33m:[39m err[33m.[39mresponse[33m.[39mdata[33m,[39m[22m
+[2m     [90m    |[39m                               [31m[1m^[22m[2m[39m[22m
+[2m     [90m 38 |[39m       }[33m;[39m[22m
+[2m     [90m 39 |[39m     }[22m
+[2m     [90m 40 |[39m   }[0m[22m
+[2m[22m
+[2m      [2mat Object.data [as fetchTicketDetail] ([22m[2msrc/services/ticketService.ts[2m:37:31)[22m[2m[22m
+[2m      [2mat [22m[2msrc/app/ticketDetail/index.tsx[2m:83:19[22m[2m[22m
+
+[1m[31m  [1m● [22m[1mTicketDetail Component › should handle marking ticket as completed[39m[22m
+
+    Unable to find an element with the text: Mark as Completed. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.
+
+    Ignored nodes: comments, script, style
+    [36m<body>[39m
+      [36m<div>[39m
+        [36m<div[39m
+          [33mclass[39m=[32m"MuiBox-root css-1u4vew7"[39m
+          [33mdata-testid[39m=[32m"loading"[39m
+        [36m>[39m
+          [36m<svg[39m
+            [33mfill[39m=[32m"none"[39m
+            [33mheight[39m=[32m"136"[39m
+            [33mid[39m=[32m"svg-global"[39m
+            [33mviewBox[39m=[32m"0 0 94 136"[39m
+            [33mwidth[39m=[32m"94"[39m
+            [33mxmlns[39m=[32m"http://www.w3.org/2000/svg"[39m
+          [36m>[39m
+            [36m<path[39m
+              [33md[39m=[32m"M87.3629 108.433L49.1073 85.3765C47.846 84.6163 45.8009 84.6163 44.5395 85.3765L6.28392 108.433C5.02255 109.194 5.02255 110.426 6.28392 111.187L44.5395 134.243C45.8009 135.004 47.846 135.004 49.1073 134.243L87.3629 111.187C88.6243 110.426 88.6243 109.194 87.3629 108.433Z"[39m
+              [33mid[39m=[32m"line-v1"[39m
+              [33mstroke[39m=[32m"#4B22B5"[39m
+            [36m/>[39m
+            [36m<path[39m
+              [33md[39m=[32m"M91.0928 95.699L49.2899 70.5042C47.9116 69.6734 45.6769 69.6734 44.2986 70.5042L2.49568 95.699C1.11735 96.5298 1.11735 97.8767 2.49568 98.7074L44.2986 123.902C45.6769 124.733 47.9116 124.733 49.2899 123.902L91.0928 98.7074C92.4712 97.8767 92.4712 96.5298 91.0928 95.699Z"[39m
+              [33mid[39m=[32m"line-v2"[39m
+              [33mstroke[39m=[32m"#5728CC"[39m
+            [36m/>[39m
+            [36m<g[39m
+              [33mid[39m=[32m"node-server"[39m
+            [36m>[39m
+              [36m<path[39m
+                [33md[39m=[32m"M2.48637 72.0059L43.8699 96.9428C45.742 98.0709 48.281 97.8084 50.9284 96.2133L91.4607 71.7833C92.1444 71.2621 92.4197 70.9139 92.5421 70.1257V86.1368C92.5421 86.9686 92.0025 87.9681 91.3123 88.3825C84.502 92.4724 51.6503 112.204 50.0363 113.215C48.2352 114.343 45.3534 114.343 43.5523 113.215C41.9261 112.197 8.55699 91.8662 2.08967 87.926C1.39197 87.5011 1.00946 86.5986 1.00946 85.4058V70.1257C1.11219 70.9289 1.49685 71.3298 2.48637 72.0059Z"[39m
+                [33mfill[39m=[32m"url(#paint0_linear_204_217)"[39m
+              [36m/>[39m
+              [36m<path[39m
+                [33md[39m=[32m"M91.0928 68.7324L49.2899 43.5375C47.9116 42.7068 45.6769 42.7068 44.2986 43.5375L2.49568 68.7324C1.11735 69.5631 1.11735 70.91 2.49568 71.7407L44.2986 96.9356C45.6769 97.7663 47.9116 97.7663 49.2899 96.9356L91.0928 71.7407C92.4712 70.91 92.4712 69.5631 91.0928 68.7324Z"[39m
+                [33mfill[39m=[32m"url(#paint1_linear_204_217)"[39m
+                [33mstroke[39m=[32m"url(#paint2_linear_204_217)"[39m
+              [36m/>[39m
+              [36m<mask[39m
+                [33mheight[39m=[32m"41"[39m
+                [33mid[39m=[32m"mask0_204_217"[39m
+                [33mmaskUnits[39m=[32m"userSpaceOnUse"[39m
+                [33mstyle[39m=[32m"mask-type: luminance;"[39m
+                [33mwidth[39m=[32m"67"[39m
+                [33mx[39m=[32m"13"[39m
+                [33my[39m=[32m"50"[39m
+              [36m>[39m
+                [36m<path[39m
+                  [33md[39m=[32m"M78.3486 68.7324L49.0242 51.0584C47.6459 50.2276 45.4111 50.2276 44.0328 51.0584L14.7084 68.7324C13.3301 69.5631 13.3301 70.91 14.7084 71.7407L44.0328 89.4148C45.4111 90.2455 47.6459 90.2455 49.0242 89.4148L78.3486 71.7407C79.7269 70.91 79.727 69.5631 78.3486 68.7324Z"[39m
+                  [33mfill[39m=[32m"white"[39m
+                [36m/>[39m
+              [36m</mask>[39m
+              [36m<g[39m
+                [33mmask[39m=[32m"url(#mask0_204_217)"[39m
+              [36m>[39m
+                [36m<path[39m
+                  [33md[39m=[32m"M78.3486 68.7324L49.0242 51.0584C47.6459 50.2276 45.4111 50.2276 44.0328 51.0584L14.7084 68.7324C13.3301 69.5631 13.3301 70.91 14.7084 71.7407L44.0328 89.4148C45.4111 90.2455 47.6459 90.2455 49.0242 89.4148L78.3486 71.7407C79.7269 70.91 79.727 69.5631 78.3486 68.7324Z"[39m
+                  [33mfill[39m=[32m"#332C94"[39m
+                [36m/>[39m
+                [36m<mask[39m
+                  [33mheight[39m=[32m"29"[39m
+                  [33mid[39m=[32m"mask1_204_217"[39m
+                  [33mmaskUnits[39m=[32m"userSpaceOnUse"[39m
+                  [33mstyle[39m=[32m"mask-type: luminance;"[39m
+                  [33mwidth[39m=[32m"48"[39m
+                  [33mx[39m=[32m"23"[39m
+                  [33my[39m=[32m"56"[39m
+                [36m>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M68.9898 68.7324L49.0242 56.699C47.6459 55.8683 45.4111 55.8683 44.0328 56.699L24.0673 68.7324C22.6889 69.5631 22.6889 70.91 24.0673 71.7407L44.0328 83.7741C45.4111 84.6048 47.6459 84.6048 49.0242 83.7741L68.9898 71.7407C70.3681 70.91 70.3681 69.5631 68.9898 68.7324Z"[39m
+                    [33mfill[39m=[32m"white"[39m
+                  [36m/>[39m
+                [36m</mask>[39m
+                [36m<g[39m
+                  [33mmask[39m=[32m"url(#mask1_204_217)"[39m
+                [36m>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M68.9898 68.7324L49.0242 56.699C47.6459 55.8683 45.4111 55.8683 44.0328 56.699L24.0673 68.7324C22.6889 69.5631 22.6889 70.91 24.0673 71.7407L44.0328 83.7741C45.4111 84.6048 47.6459 84.6048 49.0242 83.7741L68.9898 71.7407C70.3681 70.91 70.3681 69.5631 68.9898 68.7324Z"[39m
+                    [33mfill[39m=[32m"#5E5E5E"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M70.1311 69.3884L48.42 56.303C47.3863 55.6799 45.7103 55.6799 44.6765 56.303L22.5275 69.6523C21.4938 70.2754 21.4938 71.2855 22.5275 71.9086L44.2386 84.994C45.2723 85.617 46.9484 85.617 47.9821 84.994L70.1311 71.6446C71.1648 71.0216 71.1648 70.0114 70.1311 69.3884Z"[39m
+                    [33mfill[39m=[32m"#71B1C6"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M70.131 70.8923L48.4199 57.8069C47.3862 57.1839 45.7101 57.1839 44.6764 57.8069L22.5274 71.1562C21.4937 71.7793 21.4937 72.7894 22.5274 73.4125L44.2385 86.4979C45.2722 87.1209 46.9482 87.1209 47.982 86.4979L70.131 73.1486C71.1647 72.5255 71.1647 71.5153 70.131 70.8923Z"[39m
+                    [33mfill[39m=[32m"#80C0D4"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M69.751 72.1675L48.4199 59.3111C47.3862 58.6881 45.7101 58.6881 44.6764 59.3111L23.2004 72.2548C22.1667 72.8779 22.1667 73.888 23.2004 74.5111L44.5315 87.3674C45.5653 87.9905 47.2413 87.9905 48.2751 87.3674L69.751 74.4238C70.7847 73.8007 70.7847 72.7905 69.751 72.1675Z"[39m
+                    [33mfill[39m=[32m"#89D3EB"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M68.5091 72.9231L48.4199 60.8153C47.3862 60.1922 45.7101 60.1922 44.6764 60.8153L24.8146 72.7861C23.7808 73.4091 23.7808 74.4193 24.8146 75.0424L44.9038 87.1502C45.9375 87.7733 47.6135 87.7733 48.6473 87.1502L68.5091 75.1794C69.5428 74.5563 69.5428 73.5462 68.5091 72.9231Z"[39m
+                    [33mfill[39m=[32m"#97E6FF"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M66.6747 ...
+[2m[22m
+[2m    [0m [90m 75 |[39m     [36mawait[39m renderComponent()[33m;[39m[22m
+[2m     [90m 76 |[39m[22m
+[2m    [31m[1m>[22m[2m[39m[90m 77 |[39m     [36mawait[39m waitFor(() [33m=>[39m {[22m
+[2m     [90m    |[39m                  [31m[1m^[22m[2m[39m[22m
+[2m     [90m 78 |[39m       fireEvent[33m.[39mclick(screen[33m.[39mgetByText([32m"Mark as Completed"[39m))[33m;[39m[22m
+[2m     [90m 79 |[39m     })[33m;[39m[22m
+[2m     [90m 80 |[39m[0m[22m
+[2m[22m
+[2m      [2mat waitForWrapper ([22m[2m../node_modules/@testing-library/dom/dist/wait-for.js[2m:166:27)[22m[2m[22m
+[2m      [2mat Object.<anonymous> ([22m[2m[0m[36msrc/app/ticketDetail/ticketDetail.spec.tsx[39m[0m[2m:77:18)[22m[2m[22m
+
+[1m[31m  [1m● [22m[1mTicketDetail Component › should handle marking ticket as incomplete[39m[22m
+
+    TypeError: Cannot read properties of undefined (reading 'data')
+[2m[22m
+[2m    [0m [90m 35 |[39m       [36mreturn[39m {[22m
+[2m     [90m 36 |[39m         isError[33m:[39m [36mtrue[39m[33m,[39m[22m
+[2m    [31m[1m>[22m[2m[39m[90m 37 |[39m         errData[33m:[39m err[33m.[39mresponse[33m.[39mdata[33m,[39m[22m
+[2m     [90m    |[39m                               [31m[1m^[22m[2m[39m[22m
+[2m     [90m 38 |[39m       }[33m;[39m[22m
+[2m     [90m 39 |[39m     }[22m
+[2m     [90m 40 |[39m   }[0m[22m
+[2m[22m
+[2m      [2mat Object.data [as fetchTicketDetail] ([22m[2msrc/services/ticketService.ts[2m:37:31)[22m[2m[22m
+[2m      [2mat [22m[2msrc/app/ticketDetail/index.tsx[2m:83:19[22m[2m[22m
+
+[1m[31m  [1m● [22m[1mTicketDetail Component › should handle marking ticket as incomplete[39m[22m
+
+    Unable to find an element with the text: Mark as Incomplete. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.
+
+    Ignored nodes: comments, script, style
+    [36m<body>[39m
+      [36m<div>[39m
+        [36m<div[39m
+          [33mclass[39m=[32m"MuiBox-root css-1u4vew7"[39m
+          [33mdata-testid[39m=[32m"loading"[39m
+        [36m>[39m
+          [36m<svg[39m
+            [33mfill[39m=[32m"none"[39m
+            [33mheight[39m=[32m"136"[39m
+            [33mid[39m=[32m"svg-global"[39m
+            [33mviewBox[39m=[32m"0 0 94 136"[39m
+            [33mwidth[39m=[32m"94"[39m
+            [33mxmlns[39m=[32m"http://www.w3.org/2000/svg"[39m
+          [36m>[39m
+            [36m<path[39m
+              [33md[39m=[32m"M87.3629 108.433L49.1073 85.3765C47.846 84.6163 45.8009 84.6163 44.5395 85.3765L6.28392 108.433C5.02255 109.194 5.02255 110.426 6.28392 111.187L44.5395 134.243C45.8009 135.004 47.846 135.004 49.1073 134.243L87.3629 111.187C88.6243 110.426 88.6243 109.194 87.3629 108.433Z"[39m
+              [33mid[39m=[32m"line-v1"[39m
+              [33mstroke[39m=[32m"#4B22B5"[39m
+            [36m/>[39m
+            [36m<path[39m
+              [33md[39m=[32m"M91.0928 95.699L49.2899 70.5042C47.9116 69.6734 45.6769 69.6734 44.2986 70.5042L2.49568 95.699C1.11735 96.5298 1.11735 97.8767 2.49568 98.7074L44.2986 123.902C45.6769 124.733 47.9116 124.733 49.2899 123.902L91.0928 98.7074C92.4712 97.8767 92.4712 96.5298 91.0928 95.699Z"[39m
+              [33mid[39m=[32m"line-v2"[39m
+              [33mstroke[39m=[32m"#5728CC"[39m
+            [36m/>[39m
+            [36m<g[39m
+              [33mid[39m=[32m"node-server"[39m
+            [36m>[39m
+              [36m<path[39m
+                [33md[39m=[32m"M2.48637 72.0059L43.8699 96.9428C45.742 98.0709 48.281 97.8084 50.9284 96.2133L91.4607 71.7833C92.1444 71.2621 92.4197 70.9139 92.5421 70.1257V86.1368C92.5421 86.9686 92.0025 87.9681 91.3123 88.3825C84.502 92.4724 51.6503 112.204 50.0363 113.215C48.2352 114.343 45.3534 114.343 43.5523 113.215C41.9261 112.197 8.55699 91.8662 2.08967 87.926C1.39197 87.5011 1.00946 86.5986 1.00946 85.4058V70.1257C1.11219 70.9289 1.49685 71.3298 2.48637 72.0059Z"[39m
+                [33mfill[39m=[32m"url(#paint0_linear_204_217)"[39m
+              [36m/>[39m
+              [36m<path[39m
+                [33md[39m=[32m"M91.0928 68.7324L49.2899 43.5375C47.9116 42.7068 45.6769 42.7068 44.2986 43.5375L2.49568 68.7324C1.11735 69.5631 1.11735 70.91 2.49568 71.7407L44.2986 96.9356C45.6769 97.7663 47.9116 97.7663 49.2899 96.9356L91.0928 71.7407C92.4712 70.91 92.4712 69.5631 91.0928 68.7324Z"[39m
+                [33mfill[39m=[32m"url(#paint1_linear_204_217)"[39m
+                [33mstroke[39m=[32m"url(#paint2_linear_204_217)"[39m
+              [36m/>[39m
+              [36m<mask[39m
+                [33mheight[39m=[32m"41"[39m
+                [33mid[39m=[32m"mask0_204_217"[39m
+                [33mmaskUnits[39m=[32m"userSpaceOnUse"[39m
+                [33mstyle[39m=[32m"mask-type: luminance;"[39m
+                [33mwidth[39m=[32m"67"[39m
+                [33mx[39m=[32m"13"[39m
+                [33my[39m=[32m"50"[39m
+              [36m>[39m
+                [36m<path[39m
+                  [33md[39m=[32m"M78.3486 68.7324L49.0242 51.0584C47.6459 50.2276 45.4111 50.2276 44.0328 51.0584L14.7084 68.7324C13.3301 69.5631 13.3301 70.91 14.7084 71.7407L44.0328 89.4148C45.4111 90.2455 47.6459 90.2455 49.0242 89.4148L78.3486 71.7407C79.7269 70.91 79.727 69.5631 78.3486 68.7324Z"[39m
+                  [33mfill[39m=[32m"white"[39m
+                [36m/>[39m
+              [36m</mask>[39m
+              [36m<g[39m
+                [33mmask[39m=[32m"url(#mask0_204_217)"[39m
+              [36m>[39m
+                [36m<path[39m
+                  [33md[39m=[32m"M78.3486 68.7324L49.0242 51.0584C47.6459 50.2276 45.4111 50.2276 44.0328 51.0584L14.7084 68.7324C13.3301 69.5631 13.3301 70.91 14.7084 71.7407L44.0328 89.4148C45.4111 90.2455 47.6459 90.2455 49.0242 89.4148L78.3486 71.7407C79.7269 70.91 79.727 69.5631 78.3486 68.7324Z"[39m
+                  [33mfill[39m=[32m"#332C94"[39m
+                [36m/>[39m
+                [36m<mask[39m
+                  [33mheight[39m=[32m"29"[39m
+                  [33mid[39m=[32m"mask1_204_217"[39m
+                  [33mmaskUnits[39m=[32m"userSpaceOnUse"[39m
+                  [33mstyle[39m=[32m"mask-type: luminance;"[39m
+                  [33mwidth[39m=[32m"48"[39m
+                  [33mx[39m=[32m"23"[39m
+                  [33my[39m=[32m"56"[39m
+                [36m>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M68.9898 68.7324L49.0242 56.699C47.6459 55.8683 45.4111 55.8683 44.0328 56.699L24.0673 68.7324C22.6889 69.5631 22.6889 70.91 24.0673 71.7407L44.0328 83.7741C45.4111 84.6048 47.6459 84.6048 49.0242 83.7741L68.9898 71.7407C70.3681 70.91 70.3681 69.5631 68.9898 68.7324Z"[39m
+                    [33mfill[39m=[32m"white"[39m
+                  [36m/>[39m
+                [36m</mask>[39m
+                [36m<g[39m
+                  [33mmask[39m=[32m"url(#mask1_204_217)"[39m
+                [36m>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M68.9898 68.7324L49.0242 56.699C47.6459 55.8683 45.4111 55.8683 44.0328 56.699L24.0673 68.7324C22.6889 69.5631 22.6889 70.91 24.0673 71.7407L44.0328 83.7741C45.4111 84.6048 47.6459 84.6048 49.0242 83.7741L68.9898 71.7407C70.3681 70.91 70.3681 69.5631 68.9898 68.7324Z"[39m
+                    [33mfill[39m=[32m"#5E5E5E"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M70.1311 69.3884L48.42 56.303C47.3863 55.6799 45.7103 55.6799 44.6765 56.303L22.5275 69.6523C21.4938 70.2754 21.4938 71.2855 22.5275 71.9086L44.2386 84.994C45.2723 85.617 46.9484 85.617 47.9821 84.994L70.1311 71.6446C71.1648 71.0216 71.1648 70.0114 70.1311 69.3884Z"[39m
+                    [33mfill[39m=[32m"#71B1C6"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M70.131 70.8923L48.4199 57.8069C47.3862 57.1839 45.7101 57.1839 44.6764 57.8069L22.5274 71.1562C21.4937 71.7793 21.4937 72.7894 22.5274 73.4125L44.2385 86.4979C45.2722 87.1209 46.9482 87.1209 47.982 86.4979L70.131 73.1486C71.1647 72.5255 71.1647 71.5153 70.131 70.8923Z"[39m
+                    [33mfill[39m=[32m"#80C0D4"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M69.751 72.1675L48.4199 59.3111C47.3862 58.6881 45.7101 58.6881 44.6764 59.3111L23.2004 72.2548C22.1667 72.8779 22.1667 73.888 23.2004 74.5111L44.5315 87.3674C45.5653 87.9905 47.2413 87.9905 48.2751 87.3674L69.751 74.4238C70.7847 73.8007 70.7847 72.7905 69.751 72.1675Z"[39m
+                    [33mfill[39m=[32m"#89D3EB"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M68.5091 72.9231L48.4199 60.8153C47.3862 60.1922 45.7101 60.1922 44.6764 60.8153L24.8146 72.7861C23.7808 73.4091 23.7808 74.4193 24.8146 75.0424L44.9038 87.1502C45.9375 87.7733 47.6135 87.7733 48.6473 87.1502L68.5091 75.1794C69.5428 74.5563 69.5428 73.5462 68.5091 72.9231Z"[39m
+                    [33mfill[39m=[32m"#97E6FF"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M66.6747 ...
+[2m[22m
+[2m    [0m [90m  95 |[39m     [36mawait[39m renderComponent()[33m;[39m[22m
+[2m     [90m  96 |[39m[22m
+[2m    [31m[1m>[22m[2m[39m[90m  97 |[39m     [36mawait[39m waitFor(() [33m=>[39m {[22m
+[2m     [90m     |[39m                  [31m[1m^[22m[2m[39m[22m
+[2m     [90m  98 |[39m       fireEvent[33m.[39mclick(screen[33m.[39mgetByText([32m"Mark as Incomplete"[39m))[33m;[39m[22m
+[2m     [90m  99 |[39m     })[33m;[39m[22m
+[2m     [90m 100 |[39m[0m[22m
+[2m[22m
+[2m      [2mat waitForWrapper ([22m[2m../node_modules/@testing-library/dom/dist/wait-for.js[2m:166:27)[22m[2m[22m
+[2m      [2mat Object.<anonymous> ([22m[2m[0m[36msrc/app/ticketDetail/ticketDetail.spec.tsx[39m[0m[2m:97:18)[22m[2m[22m
+
+[1m[31m  [1m● [22m[1mTicketDetail Component › should handle assigning user[39m[22m
+
+    TypeError: Cannot read properties of undefined (reading 'data')
+[2m[22m
+[2m    [0m [90m 35 |[39m       [36mreturn[39m {[22m
+[2m     [90m 36 |[39m         isError[33m:[39m [36mtrue[39m[33m,[39m[22m
+[2m    [31m[1m>[22m[2m[39m[90m 37 |[39m         errData[33m:[39m err[33m.[39mresponse[33m.[39mdata[33m,[39m[22m
+[2m     [90m    |[39m                               [31m[1m^[22m[2m[39m[22m
+[2m     [90m 38 |[39m       }[33m;[39m[22m
+[2m     [90m 39 |[39m     }[22m
+[2m     [90m 40 |[39m   }[0m[22m
+[2m[22m
+[2m      [2mat Object.data [as fetchTicketDetail] ([22m[2msrc/services/ticketService.ts[2m:37:31)[22m[2m[22m
+[2m      [2mat [22m[2msrc/app/ticketDetail/index.tsx[2m:83:19[22m[2m[22m
+
+[1m[31m  [1m● [22m[1mTicketDetail Component › should handle assigning user[39m[22m
+
+    Unable to find role="combobox"
+
+    Ignored nodes: comments, script, style
+    [36m<body>[39m
+      [36m<div>[39m
+        [36m<div[39m
+          [33mclass[39m=[32m"MuiBox-root css-1u4vew7"[39m
+          [33mdata-testid[39m=[32m"loading"[39m
+        [36m>[39m
+          [36m<svg[39m
+            [33mfill[39m=[32m"none"[39m
+            [33mheight[39m=[32m"136"[39m
+            [33mid[39m=[32m"svg-global"[39m
+            [33mviewBox[39m=[32m"0 0 94 136"[39m
+            [33mwidth[39m=[32m"94"[39m
+            [33mxmlns[39m=[32m"http://www.w3.org/2000/svg"[39m
+          [36m>[39m
+            [36m<path[39m
+              [33md[39m=[32m"M87.3629 108.433L49.1073 85.3765C47.846 84.6163 45.8009 84.6163 44.5395 85.3765L6.28392 108.433C5.02255 109.194 5.02255 110.426 6.28392 111.187L44.5395 134.243C45.8009 135.004 47.846 135.004 49.1073 134.243L87.3629 111.187C88.6243 110.426 88.6243 109.194 87.3629 108.433Z"[39m
+              [33mid[39m=[32m"line-v1"[39m
+              [33mstroke[39m=[32m"#4B22B5"[39m
+            [36m/>[39m
+            [36m<path[39m
+              [33md[39m=[32m"M91.0928 95.699L49.2899 70.5042C47.9116 69.6734 45.6769 69.6734 44.2986 70.5042L2.49568 95.699C1.11735 96.5298 1.11735 97.8767 2.49568 98.7074L44.2986 123.902C45.6769 124.733 47.9116 124.733 49.2899 123.902L91.0928 98.7074C92.4712 97.8767 92.4712 96.5298 91.0928 95.699Z"[39m
+              [33mid[39m=[32m"line-v2"[39m
+              [33mstroke[39m=[32m"#5728CC"[39m
+            [36m/>[39m
+            [36m<g[39m
+              [33mid[39m=[32m"node-server"[39m
+            [36m>[39m
+              [36m<path[39m
+                [33md[39m=[32m"M2.48637 72.0059L43.8699 96.9428C45.742 98.0709 48.281 97.8084 50.9284 96.2133L91.4607 71.7833C92.1444 71.2621 92.4197 70.9139 92.5421 70.1257V86.1368C92.5421 86.9686 92.0025 87.9681 91.3123 88.3825C84.502 92.4724 51.6503 112.204 50.0363 113.215C48.2352 114.343 45.3534 114.343 43.5523 113.215C41.9261 112.197 8.55699 91.8662 2.08967 87.926C1.39197 87.5011 1.00946 86.5986 1.00946 85.4058V70.1257C1.11219 70.9289 1.49685 71.3298 2.48637 72.0059Z"[39m
+                [33mfill[39m=[32m"url(#paint0_linear_204_217)"[39m
+              [36m/>[39m
+              [36m<path[39m
+                [33md[39m=[32m"M91.0928 68.7324L49.2899 43.5375C47.9116 42.7068 45.6769 42.7068 44.2986 43.5375L2.49568 68.7324C1.11735 69.5631 1.11735 70.91 2.49568 71.7407L44.2986 96.9356C45.6769 97.7663 47.9116 97.7663 49.2899 96.9356L91.0928 71.7407C92.4712 70.91 92.4712 69.5631 91.0928 68.7324Z"[39m
+                [33mfill[39m=[32m"url(#paint1_linear_204_217)"[39m
+                [33mstroke[39m=[32m"url(#paint2_linear_204_217)"[39m
+              [36m/>[39m
+              [36m<mask[39m
+                [33mheight[39m=[32m"41"[39m
+                [33mid[39m=[32m"mask0_204_217"[39m
+                [33mmaskUnits[39m=[32m"userSpaceOnUse"[39m
+                [33mstyle[39m=[32m"mask-type: luminance;"[39m
+                [33mwidth[39m=[32m"67"[39m
+                [33mx[39m=[32m"13"[39m
+                [33my[39m=[32m"50"[39m
+              [36m>[39m
+                [36m<path[39m
+                  [33md[39m=[32m"M78.3486 68.7324L49.0242 51.0584C47.6459 50.2276 45.4111 50.2276 44.0328 51.0584L14.7084 68.7324C13.3301 69.5631 13.3301 70.91 14.7084 71.7407L44.0328 89.4148C45.4111 90.2455 47.6459 90.2455 49.0242 89.4148L78.3486 71.7407C79.7269 70.91 79.727 69.5631 78.3486 68.7324Z"[39m
+                  [33mfill[39m=[32m"white"[39m
+                [36m/>[39m
+              [36m</mask>[39m
+              [36m<g[39m
+                [33mmask[39m=[32m"url(#mask0_204_217)"[39m
+              [36m>[39m
+                [36m<path[39m
+                  [33md[39m=[32m"M78.3486 68.7324L49.0242 51.0584C47.6459 50.2276 45.4111 50.2276 44.0328 51.0584L14.7084 68.7324C13.3301 69.5631 13.3301 70.91 14.7084 71.7407L44.0328 89.4148C45.4111 90.2455 47.6459 90.2455 49.0242 89.4148L78.3486 71.7407C79.7269 70.91 79.727 69.5631 78.3486 68.7324Z"[39m
+                  [33mfill[39m=[32m"#332C94"[39m
+                [36m/>[39m
+                [36m<mask[39m
+                  [33mheight[39m=[32m"29"[39m
+                  [33mid[39m=[32m"mask1_204_217"[39m
+                  [33mmaskUnits[39m=[32m"userSpaceOnUse"[39m
+                  [33mstyle[39m=[32m"mask-type: luminance;"[39m
+                  [33mwidth[39m=[32m"48"[39m
+                  [33mx[39m=[32m"23"[39m
+                  [33my[39m=[32m"56"[39m
+                [36m>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M68.9898 68.7324L49.0242 56.699C47.6459 55.8683 45.4111 55.8683 44.0328 56.699L24.0673 68.7324C22.6889 69.5631 22.6889 70.91 24.0673 71.7407L44.0328 83.7741C45.4111 84.6048 47.6459 84.6048 49.0242 83.7741L68.9898 71.7407C70.3681 70.91 70.3681 69.5631 68.9898 68.7324Z"[39m
+                    [33mfill[39m=[32m"white"[39m
+                  [36m/>[39m
+                [36m</mask>[39m
+                [36m<g[39m
+                  [33mmask[39m=[32m"url(#mask1_204_217)"[39m
+                [36m>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M68.9898 68.7324L49.0242 56.699C47.6459 55.8683 45.4111 55.8683 44.0328 56.699L24.0673 68.7324C22.6889 69.5631 22.6889 70.91 24.0673 71.7407L44.0328 83.7741C45.4111 84.6048 47.6459 84.6048 49.0242 83.7741L68.9898 71.7407C70.3681 70.91 70.3681 69.5631 68.9898 68.7324Z"[39m
+                    [33mfill[39m=[32m"#5E5E5E"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M70.1311 69.3884L48.42 56.303C47.3863 55.6799 45.7103 55.6799 44.6765 56.303L22.5275 69.6523C21.4938 70.2754 21.4938 71.2855 22.5275 71.9086L44.2386 84.994C45.2723 85.617 46.9484 85.617 47.9821 84.994L70.1311 71.6446C71.1648 71.0216 71.1648 70.0114 70.1311 69.3884Z"[39m
+                    [33mfill[39m=[32m"#71B1C6"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M70.131 70.8923L48.4199 57.8069C47.3862 57.1839 45.7101 57.1839 44.6764 57.8069L22.5274 71.1562C21.4937 71.7793 21.4937 72.7894 22.5274 73.4125L44.2385 86.4979C45.2722 87.1209 46.9482 87.1209 47.982 86.4979L70.131 73.1486C71.1647 72.5255 71.1647 71.5153 70.131 70.8923Z"[39m
+                    [33mfill[39m=[32m"#80C0D4"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M69.751 72.1675L48.4199 59.3111C47.3862 58.6881 45.7101 58.6881 44.6764 59.3111L23.2004 72.2548C22.1667 72.8779 22.1667 73.888 23.2004 74.5111L44.5315 87.3674C45.5653 87.9905 47.2413 87.9905 48.2751 87.3674L69.751 74.4238C70.7847 73.8007 70.7847 72.7905 69.751 72.1675Z"[39m
+                    [33mfill[39m=[32m"#89D3EB"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M68.5091 72.9231L48.4199 60.8153C47.3862 60.1922 45.7101 60.1922 44.6764 60.8153L24.8146 72.7861C23.7808 73.4091 23.7808 74.4193 24.8146 75.0424L44.9038 87.1502C45.9375 87.7733 47.6135 87.7733 48.6473 87.1502L68.5091 75.1794C69.5428 74.5563 69.5428 73.5462 68.5091 72.9231Z"[39m
+                    [33mfill[39m=[32m"#97E6FF"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M66.6747 ...
+[2m[22m
+[2m    [0m [90m 108 |[39m     [36mawait[39m renderComponent()[33m;[39m[22m
+[2m     [90m 109 |[39m[22m
+[2m    [31m[1m>[22m[2m[39m[90m 110 |[39m     [36mawait[39m waitFor(() [33m=>[39m {[22m
+[2m     [90m     |[39m                  [31m[1m^[22m[2m[39m[22m
+[2m     [90m 111 |[39m       [36mconst[39m select [33m=[39m screen[33m.[39mgetByRole([32m"combobox"[39m)[33m;[39m[22m
+[2m     [90m 112 |[39m       fireEvent[33m.[39mchange(select[33m,[39m { target[33m:[39m { value[33m:[39m [32m"1"[39m } })[33m;[39m[22m
+[2m     [90m 113 |[39m     })[33m;[39m[0m[22m
+[2m[22m
+[2m      [2mat waitForWrapper ([22m[2m../node_modules/@testing-library/dom/dist/wait-for.js[2m:166:27)[22m[2m[22m
+[2m      [2mat Object.<anonymous> ([22m[2m[0m[36msrc/app/ticketDetail/ticketDetail.spec.tsx[39m[0m[2m:110:18)[22m[2m[22m
+
+[1m[31m  [1m● [22m[1mTicketDetail Component › should handle unassigning user[39m[22m
+
+    TypeError: Cannot read properties of undefined (reading 'data')
+[2m[22m
+[2m    [0m [90m 35 |[39m       [36mreturn[39m {[22m
+[2m     [90m 36 |[39m         isError[33m:[39m [36mtrue[39m[33m,[39m[22m
+[2m    [31m[1m>[22m[2m[39m[90m 37 |[39m         errData[33m:[39m err[33m.[39mresponse[33m.[39mdata[33m,[39m[22m
+[2m     [90m    |[39m                               [31m[1m^[22m[2m[39m[22m
+[2m     [90m 38 |[39m       }[33m;[39m[22m
+[2m     [90m 39 |[39m     }[22m
+[2m     [90m 40 |[39m   }[0m[22m
+[2m[22m
+[2m      [2mat Object.data [as fetchTicketDetail] ([22m[2msrc/services/ticketService.ts[2m:37:31)[22m[2m[22m
+[2m      [2mat [22m[2msrc/app/ticketDetail/index.tsx[2m:83:19[22m[2m[22m
+
+[1m[31m  [1m● [22m[1mTicketDetail Component › should handle unassigning user[39m[22m
+
+    Unable to find an element with the text: Unassign. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.
+
+    Ignored nodes: comments, script, style
+    [36m<body>[39m
+      [36m<div>[39m
+        [36m<div[39m
+          [33mclass[39m=[32m"MuiBox-root css-1u4vew7"[39m
+          [33mdata-testid[39m=[32m"loading"[39m
+        [36m>[39m
+          [36m<svg[39m
+            [33mfill[39m=[32m"none"[39m
+            [33mheight[39m=[32m"136"[39m
+            [33mid[39m=[32m"svg-global"[39m
+            [33mviewBox[39m=[32m"0 0 94 136"[39m
+            [33mwidth[39m=[32m"94"[39m
+            [33mxmlns[39m=[32m"http://www.w3.org/2000/svg"[39m
+          [36m>[39m
+            [36m<path[39m
+              [33md[39m=[32m"M87.3629 108.433L49.1073 85.3765C47.846 84.6163 45.8009 84.6163 44.5395 85.3765L6.28392 108.433C5.02255 109.194 5.02255 110.426 6.28392 111.187L44.5395 134.243C45.8009 135.004 47.846 135.004 49.1073 134.243L87.3629 111.187C88.6243 110.426 88.6243 109.194 87.3629 108.433Z"[39m
+              [33mid[39m=[32m"line-v1"[39m
+              [33mstroke[39m=[32m"#4B22B5"[39m
+            [36m/>[39m
+            [36m<path[39m
+              [33md[39m=[32m"M91.0928 95.699L49.2899 70.5042C47.9116 69.6734 45.6769 69.6734 44.2986 70.5042L2.49568 95.699C1.11735 96.5298 1.11735 97.8767 2.49568 98.7074L44.2986 123.902C45.6769 124.733 47.9116 124.733 49.2899 123.902L91.0928 98.7074C92.4712 97.8767 92.4712 96.5298 91.0928 95.699Z"[39m
+              [33mid[39m=[32m"line-v2"[39m
+              [33mstroke[39m=[32m"#5728CC"[39m
+            [36m/>[39m
+            [36m<g[39m
+              [33mid[39m=[32m"node-server"[39m
+            [36m>[39m
+              [36m<path[39m
+                [33md[39m=[32m"M2.48637 72.0059L43.8699 96.9428C45.742 98.0709 48.281 97.8084 50.9284 96.2133L91.4607 71.7833C92.1444 71.2621 92.4197 70.9139 92.5421 70.1257V86.1368C92.5421 86.9686 92.0025 87.9681 91.3123 88.3825C84.502 92.4724 51.6503 112.204 50.0363 113.215C48.2352 114.343 45.3534 114.343 43.5523 113.215C41.9261 112.197 8.55699 91.8662 2.08967 87.926C1.39197 87.5011 1.00946 86.5986 1.00946 85.4058V70.1257C1.11219 70.9289 1.49685 71.3298 2.48637 72.0059Z"[39m
+                [33mfill[39m=[32m"url(#paint0_linear_204_217)"[39m
+              [36m/>[39m
+              [36m<path[39m
+                [33md[39m=[32m"M91.0928 68.7324L49.2899 43.5375C47.9116 42.7068 45.6769 42.7068 44.2986 43.5375L2.49568 68.7324C1.11735 69.5631 1.11735 70.91 2.49568 71.7407L44.2986 96.9356C45.6769 97.7663 47.9116 97.7663 49.2899 96.9356L91.0928 71.7407C92.4712 70.91 92.4712 69.5631 91.0928 68.7324Z"[39m
+                [33mfill[39m=[32m"url(#paint1_linear_204_217)"[39m
+                [33mstroke[39m=[32m"url(#paint2_linear_204_217)"[39m
+              [36m/>[39m
+              [36m<mask[39m
+                [33mheight[39m=[32m"41"[39m
+                [33mid[39m=[32m"mask0_204_217"[39m
+                [33mmaskUnits[39m=[32m"userSpaceOnUse"[39m
+                [33mstyle[39m=[32m"mask-type: luminance;"[39m
+                [33mwidth[39m=[32m"67"[39m
+                [33mx[39m=[32m"13"[39m
+                [33my[39m=[32m"50"[39m
+              [36m>[39m
+                [36m<path[39m
+                  [33md[39m=[32m"M78.3486 68.7324L49.0242 51.0584C47.6459 50.2276 45.4111 50.2276 44.0328 51.0584L14.7084 68.7324C13.3301 69.5631 13.3301 70.91 14.7084 71.7407L44.0328 89.4148C45.4111 90.2455 47.6459 90.2455 49.0242 89.4148L78.3486 71.7407C79.7269 70.91 79.727 69.5631 78.3486 68.7324Z"[39m
+                  [33mfill[39m=[32m"white"[39m
+                [36m/>[39m
+              [36m</mask>[39m
+              [36m<g[39m
+                [33mmask[39m=[32m"url(#mask0_204_217)"[39m
+              [36m>[39m
+                [36m<path[39m
+                  [33md[39m=[32m"M78.3486 68.7324L49.0242 51.0584C47.6459 50.2276 45.4111 50.2276 44.0328 51.0584L14.7084 68.7324C13.3301 69.5631 13.3301 70.91 14.7084 71.7407L44.0328 89.4148C45.4111 90.2455 47.6459 90.2455 49.0242 89.4148L78.3486 71.7407C79.7269 70.91 79.727 69.5631 78.3486 68.7324Z"[39m
+                  [33mfill[39m=[32m"#332C94"[39m
+                [36m/>[39m
+                [36m<mask[39m
+                  [33mheight[39m=[32m"29"[39m
+                  [33mid[39m=[32m"mask1_204_217"[39m
+                  [33mmaskUnits[39m=[32m"userSpaceOnUse"[39m
+                  [33mstyle[39m=[32m"mask-type: luminance;"[39m
+                  [33mwidth[39m=[32m"48"[39m
+                  [33mx[39m=[32m"23"[39m
+                  [33my[39m=[32m"56"[39m
+                [36m>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M68.9898 68.7324L49.0242 56.699C47.6459 55.8683 45.4111 55.8683 44.0328 56.699L24.0673 68.7324C22.6889 69.5631 22.6889 70.91 24.0673 71.7407L44.0328 83.7741C45.4111 84.6048 47.6459 84.6048 49.0242 83.7741L68.9898 71.7407C70.3681 70.91 70.3681 69.5631 68.9898 68.7324Z"[39m
+                    [33mfill[39m=[32m"white"[39m
+                  [36m/>[39m
+                [36m</mask>[39m
+                [36m<g[39m
+                  [33mmask[39m=[32m"url(#mask1_204_217)"[39m
+                [36m>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M68.9898 68.7324L49.0242 56.699C47.6459 55.8683 45.4111 55.8683 44.0328 56.699L24.0673 68.7324C22.6889 69.5631 22.6889 70.91 24.0673 71.7407L44.0328 83.7741C45.4111 84.6048 47.6459 84.6048 49.0242 83.7741L68.9898 71.7407C70.3681 70.91 70.3681 69.5631 68.9898 68.7324Z"[39m
+                    [33mfill[39m=[32m"#5E5E5E"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M70.1311 69.3884L48.42 56.303C47.3863 55.6799 45.7103 55.6799 44.6765 56.303L22.5275 69.6523C21.4938 70.2754 21.4938 71.2855 22.5275 71.9086L44.2386 84.994C45.2723 85.617 46.9484 85.617 47.9821 84.994L70.1311 71.6446C71.1648 71.0216 71.1648 70.0114 70.1311 69.3884Z"[39m
+                    [33mfill[39m=[32m"#71B1C6"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M70.131 70.8923L48.4199 57.8069C47.3862 57.1839 45.7101 57.1839 44.6764 57.8069L22.5274 71.1562C21.4937 71.7793 21.4937 72.7894 22.5274 73.4125L44.2385 86.4979C45.2722 87.1209 46.9482 87.1209 47.982 86.4979L70.131 73.1486C71.1647 72.5255 71.1647 71.5153 70.131 70.8923Z"[39m
+                    [33mfill[39m=[32m"#80C0D4"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M69.751 72.1675L48.4199 59.3111C47.3862 58.6881 45.7101 58.6881 44.6764 59.3111L23.2004 72.2548C22.1667 72.8779 22.1667 73.888 23.2004 74.5111L44.5315 87.3674C45.5653 87.9905 47.2413 87.9905 48.2751 87.3674L69.751 74.4238C70.7847 73.8007 70.7847 72.7905 69.751 72.1675Z"[39m
+                    [33mfill[39m=[32m"#89D3EB"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M68.5091 72.9231L48.4199 60.8153C47.3862 60.1922 45.7101 60.1922 44.6764 60.8153L24.8146 72.7861C23.7808 73.4091 23.7808 74.4193 24.8146 75.0424L44.9038 87.1502C45.9375 87.7733 47.6135 87.7733 48.6473 87.1502L68.5091 75.1794C69.5428 74.5563 69.5428 73.5462 68.5091 72.9231Z"[39m
+                    [33mfill[39m=[32m"#97E6FF"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M66.6747 ...
+[2m[22m
+[2m    [0m [90m 129 |[39m     [36mawait[39m renderComponent()[33m;[39m[22m
+[2m     [90m 130 |[39m[22m
+[2m    [31m[1m>[22m[2m[39m[90m 131 |[39m     [36mawait[39m waitFor(() [33m=>[39m {[22m
+[2m     [90m     |[39m                  [31m[1m^[22m[2m[39m[22m
+[2m     [90m 132 |[39m       fireEvent[33m.[39mclick(screen[33m.[39mgetByText([32m"Unassign"[39m))[33m;[39m[22m
+[2m     [90m 133 |[39m     })[33m;[39m[22m
+[2m     [90m 134 |[39m[0m[22m
+[2m[22m
+[2m      [2mat waitForWrapper ([22m[2m../node_modules/@testing-library/dom/dist/wait-for.js[2m:166:27)[22m[2m[22m
+[2m      [2mat Object.<anonymous> ([22m[2m[0m[36msrc/app/ticketDetail/ticketDetail.spec.tsx[39m[0m[2m:131:18)[22m[2m[22m
+
+[1m[31m  [1m● [22m[1mTicketDetail Component › should navigate back when clicking cancel[39m[22m
+
+    TypeError: Cannot read properties of undefined (reading 'data')
+[2m[22m
+[2m    [0m [90m 35 |[39m       [36mreturn[39m {[22m
+[2m     [90m 36 |[39m         isError[33m:[39m [36mtrue[39m[33m,[39m[22m
+[2m    [31m[1m>[22m[2m[39m[90m 37 |[39m         errData[33m:[39m err[33m.[39mresponse[33m.[39mdata[33m,[39m[22m
+[2m     [90m    |[39m                               [31m[1m^[22m[2m[39m[22m
+[2m     [90m 38 |[39m       }[33m;[39m[22m
+[2m     [90m 39 |[39m     }[22m
+[2m     [90m 40 |[39m   }[0m[22m
+[2m[22m
+[2m      [2mat Object.data [as fetchTicketDetail] ([22m[2msrc/services/ticketService.ts[2m:37:31)[22m[2m[22m
+[2m      [2mat [22m[2msrc/app/ticketDetail/index.tsx[2m:83:19[22m[2m[22m
+
+[1m[31m  [1m● [22m[1mTicketDetail Component › should navigate back when clicking cancel[39m[22m
+
+    Unable to find an element with the text: Cancel. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.
+
+    Ignored nodes: comments, script, style
+    [36m<body>[39m
+      [36m<div>[39m
+        [36m<div[39m
+          [33mclass[39m=[32m"MuiBox-root css-1u4vew7"[39m
+          [33mdata-testid[39m=[32m"loading"[39m
+        [36m>[39m
+          [36m<svg[39m
+            [33mfill[39m=[32m"none"[39m
+            [33mheight[39m=[32m"136"[39m
+            [33mid[39m=[32m"svg-global"[39m
+            [33mviewBox[39m=[32m"0 0 94 136"[39m
+            [33mwidth[39m=[32m"94"[39m
+            [33mxmlns[39m=[32m"http://www.w3.org/2000/svg"[39m
+          [36m>[39m
+            [36m<path[39m
+              [33md[39m=[32m"M87.3629 108.433L49.1073 85.3765C47.846 84.6163 45.8009 84.6163 44.5395 85.3765L6.28392 108.433C5.02255 109.194 5.02255 110.426 6.28392 111.187L44.5395 134.243C45.8009 135.004 47.846 135.004 49.1073 134.243L87.3629 111.187C88.6243 110.426 88.6243 109.194 87.3629 108.433Z"[39m
+              [33mid[39m=[32m"line-v1"[39m
+              [33mstroke[39m=[32m"#4B22B5"[39m
+            [36m/>[39m
+            [36m<path[39m
+              [33md[39m=[32m"M91.0928 95.699L49.2899 70.5042C47.9116 69.6734 45.6769 69.6734 44.2986 70.5042L2.49568 95.699C1.11735 96.5298 1.11735 97.8767 2.49568 98.7074L44.2986 123.902C45.6769 124.733 47.9116 124.733 49.2899 123.902L91.0928 98.7074C92.4712 97.8767 92.4712 96.5298 91.0928 95.699Z"[39m
+              [33mid[39m=[32m"line-v2"[39m
+              [33mstroke[39m=[32m"#5728CC"[39m
+            [36m/>[39m
+            [36m<g[39m
+              [33mid[39m=[32m"node-server"[39m
+            [36m>[39m
+              [36m<path[39m
+                [33md[39m=[32m"M2.48637 72.0059L43.8699 96.9428C45.742 98.0709 48.281 97.8084 50.9284 96.2133L91.4607 71.7833C92.1444 71.2621 92.4197 70.9139 92.5421 70.1257V86.1368C92.5421 86.9686 92.0025 87.9681 91.3123 88.3825C84.502 92.4724 51.6503 112.204 50.0363 113.215C48.2352 114.343 45.3534 114.343 43.5523 113.215C41.9261 112.197 8.55699 91.8662 2.08967 87.926C1.39197 87.5011 1.00946 86.5986 1.00946 85.4058V70.1257C1.11219 70.9289 1.49685 71.3298 2.48637 72.0059Z"[39m
+                [33mfill[39m=[32m"url(#paint0_linear_204_217)"[39m
+              [36m/>[39m
+              [36m<path[39m
+                [33md[39m=[32m"M91.0928 68.7324L49.2899 43.5375C47.9116 42.7068 45.6769 42.7068 44.2986 43.5375L2.49568 68.7324C1.11735 69.5631 1.11735 70.91 2.49568 71.7407L44.2986 96.9356C45.6769 97.7663 47.9116 97.7663 49.2899 96.9356L91.0928 71.7407C92.4712 70.91 92.4712 69.5631 91.0928 68.7324Z"[39m
+                [33mfill[39m=[32m"url(#paint1_linear_204_217)"[39m
+                [33mstroke[39m=[32m"url(#paint2_linear_204_217)"[39m
+              [36m/>[39m
+              [36m<mask[39m
+                [33mheight[39m=[32m"41"[39m
+                [33mid[39m=[32m"mask0_204_217"[39m
+                [33mmaskUnits[39m=[32m"userSpaceOnUse"[39m
+                [33mstyle[39m=[32m"mask-type: luminance;"[39m
+                [33mwidth[39m=[32m"67"[39m
+                [33mx[39m=[32m"13"[39m
+                [33my[39m=[32m"50"[39m
+              [36m>[39m
+                [36m<path[39m
+                  [33md[39m=[32m"M78.3486 68.7324L49.0242 51.0584C47.6459 50.2276 45.4111 50.2276 44.0328 51.0584L14.7084 68.7324C13.3301 69.5631 13.3301 70.91 14.7084 71.7407L44.0328 89.4148C45.4111 90.2455 47.6459 90.2455 49.0242 89.4148L78.3486 71.7407C79.7269 70.91 79.727 69.5631 78.3486 68.7324Z"[39m
+                  [33mfill[39m=[32m"white"[39m
+                [36m/>[39m
+              [36m</mask>[39m
+              [36m<g[39m
+                [33mmask[39m=[32m"url(#mask0_204_217)"[39m
+              [36m>[39m
+                [36m<path[39m
+                  [33md[39m=[32m"M78.3486 68.7324L49.0242 51.0584C47.6459 50.2276 45.4111 50.2276 44.0328 51.0584L14.7084 68.7324C13.3301 69.5631 13.3301 70.91 14.7084 71.7407L44.0328 89.4148C45.4111 90.2455 47.6459 90.2455 49.0242 89.4148L78.3486 71.7407C79.7269 70.91 79.727 69.5631 78.3486 68.7324Z"[39m
+                  [33mfill[39m=[32m"#332C94"[39m
+                [36m/>[39m
+                [36m<mask[39m
+                  [33mheight[39m=[32m"29"[39m
+                  [33mid[39m=[32m"mask1_204_217"[39m
+                  [33mmaskUnits[39m=[32m"userSpaceOnUse"[39m
+                  [33mstyle[39m=[32m"mask-type: luminance;"[39m
+                  [33mwidth[39m=[32m"48"[39m
+                  [33mx[39m=[32m"23"[39m
+                  [33my[39m=[32m"56"[39m
+                [36m>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M68.9898 68.7324L49.0242 56.699C47.6459 55.8683 45.4111 55.8683 44.0328 56.699L24.0673 68.7324C22.6889 69.5631 22.6889 70.91 24.0673 71.7407L44.0328 83.7741C45.4111 84.6048 47.6459 84.6048 49.0242 83.7741L68.9898 71.7407C70.3681 70.91 70.3681 69.5631 68.9898 68.7324Z"[39m
+                    [33mfill[39m=[32m"white"[39m
+                  [36m/>[39m
+                [36m</mask>[39m
+                [36m<g[39m
+                  [33mmask[39m=[32m"url(#mask1_204_217)"[39m
+                [36m>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M68.9898 68.7324L49.0242 56.699C47.6459 55.8683 45.4111 55.8683 44.0328 56.699L24.0673 68.7324C22.6889 69.5631 22.6889 70.91 24.0673 71.7407L44.0328 83.7741C45.4111 84.6048 47.6459 84.6048 49.0242 83.7741L68.9898 71.7407C70.3681 70.91 70.3681 69.5631 68.9898 68.7324Z"[39m
+                    [33mfill[39m=[32m"#5E5E5E"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M70.1311 69.3884L48.42 56.303C47.3863 55.6799 45.7103 55.6799 44.6765 56.303L22.5275 69.6523C21.4938 70.2754 21.4938 71.2855 22.5275 71.9086L44.2386 84.994C45.2723 85.617 46.9484 85.617 47.9821 84.994L70.1311 71.6446C71.1648 71.0216 71.1648 70.0114 70.1311 69.3884Z"[39m
+                    [33mfill[39m=[32m"#71B1C6"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M70.131 70.8923L48.4199 57.8069C47.3862 57.1839 45.7101 57.1839 44.6764 57.8069L22.5274 71.1562C21.4937 71.7793 21.4937 72.7894 22.5274 73.4125L44.2385 86.4979C45.2722 87.1209 46.9482 87.1209 47.982 86.4979L70.131 73.1486C71.1647 72.5255 71.1647 71.5153 70.131 70.8923Z"[39m
+                    [33mfill[39m=[32m"#80C0D4"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M69.751 72.1675L48.4199 59.3111C47.3862 58.6881 45.7101 58.6881 44.6764 59.3111L23.2004 72.2548C22.1667 72.8779 22.1667 73.888 23.2004 74.5111L44.5315 87.3674C45.5653 87.9905 47.2413 87.9905 48.2751 87.3674L69.751 74.4238C70.7847 73.8007 70.7847 72.7905 69.751 72.1675Z"[39m
+                    [33mfill[39m=[32m"#89D3EB"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M68.5091 72.9231L48.4199 60.8153C47.3862 60.1922 45.7101 60.1922 44.6764 60.8153L24.8146 72.7861C23.7808 73.4091 23.7808 74.4193 24.8146 75.0424L44.9038 87.1502C45.9375 87.7733 47.6135 87.7733 48.6473 87.1502L68.5091 75.1794C69.5428 74.5563 69.5428 73.5462 68.5091 72.9231Z"[39m
+                    [33mfill[39m=[32m"#97E6FF"[39m
+                  [36m/>[39m
+                  [36m<path[39m
+                    [33md[39m=[32m"M66.6747 ...
+[2m[22m
+[2m    [0m [90m 142 |[39m     [36mawait[39m renderComponent()[33m;[39m[22m
+[2m     [90m 143 |[39m[22m
+[2m    [31m[1m>[22m[2m[39m[90m 144 |[39m     [36mawait[39m waitFor(() [33m=>[39m {[22m
+[2m     [90m     |[39m                  [31m[1m^[22m[2m[39m[22m
+[2m     [90m 145 |[39m       fireEvent[33m.[39mclick(screen[33m.[39mgetByText([32m"Cancel"[39m))[33m;[39m[22m
+[2m     [90m 146 |[39m     })[33m;[39m[22m
+[2m     [90m 147 |[39m[0m[22m
+[2m[22m
+[2m      [2mat waitForWrapper ([22m[2m../node_modules/@testing-library/dom/dist/wait-for.js[2m:166:27)[22m[2m[22m
+[2m      [2mat Object.<anonymous> ([22m[2m[0m[36msrc/app/ticketDetail/ticketDetail.spec.tsx[39m[0m[2m:144:18)[22m[2m[22m
+
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticketDetail/[22m[1mticketDetail.spec.tsx[22m
+
+[1mTest Suites: [22m[1m[31m1 failed[39m[22m, 1 of 2 total
+[1mTests:       [22m[1m[31m6 failed[39m[22m, [1m[32m7 passed[39m[22m, 13 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        [1m[33m11 s[39m[22m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+
+[1mTest Suites: [22m[1m[31m2 failed[39m[22m, 2 total
+[1mTests:       [22m[1m[31m7 failed[39m[22m, [1m[32m7 passed[39m[22m, 14 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        [1m[33m12 s[39m[22m[K[1A[K[1A[K[1A[K[1A[K[1A[999D[K[1mTest Suites: [22m[1m[31m2 failed[39m[22m, 2 total
+[1mTests:       [22m[1m[31m7 failed[39m[22m, [1m[32m7 passed[39m[22m, 14 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        [1m[33m12.011 s[39m[22m
+[2mRan all test suites[22m[2m.[22m

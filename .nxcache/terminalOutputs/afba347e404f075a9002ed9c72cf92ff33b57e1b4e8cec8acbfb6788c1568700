@@ -1,0 +1,233 @@
+[1m[2mDetermining test suites to run...[22m[22m[999D[K
+[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A[999D[K
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A  [2m[31mconsole.error[39m[22m
+[31m    Warning: Invalid DOM property `stroke-width`. Did you mean `strokeWidth`?[39m
+[31m        at path[39m
+[31m        at g[39m
+[31m        at g[39m
+[31m        at svg[39m
+[31m        at div[39m
+[31m        at C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@emotion\react\dist\emotion-element-a1829a1e.cjs.js:58:23[39m
+[31m        at Box (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@mui\system\createBox\createBox.js:27:41)[39m
+[31m        at Loading (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\client\src\component\Loading\index.tsx:4:20)[39m
+[31m        at div[39m
+[31m        at C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@emotion\react\dist\emotion-element-a1829a1e.cjs.js:58:23[39m
+[31m        at Grid (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@mui\system\Grid\createGrid.js:85:19)[39m
+[31m        at div[39m
+[31m        at C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@emotion\react\dist\emotion-element-a1829a1e.cjs.js:58:23[39m
+[31m        at Box (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@mui\system\createBox\createBox.js:27:41)[39m
+[31m        at Tickets (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\client\src\app\tickets\tickets.tsx:38:11)[39m
+[31m        at Router (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\react-router-dom\node_modules\react-router\lib\components.tsx:290:13)[39m
+[31m        at BrowserRouter (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\react-router-dom\index.tsx:244:3)[39m
+[2m[22m
+[2m      [2mat printWarning ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:86:30)[22m[2m[22m
+[2m      [2mat error ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:60:7)[22m[2m[22m
+[2m      [2mat validateProperty$1 ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3749:9)[22m[2m[22m
+[2m      [2mat warnUnknownProperties ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3803:21)[22m[2m[22m
+[2m      [2mat validateProperties$2 ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3827:3)[22m[2m[22m
+[2m      [2mat validatePropertiesInDevelopment ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:9541:5)[22m[2m[22m
+[2m      [2mat setInitialProperties ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:9830:5)[22m[2m[22m
+
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A[999D[K
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A  [2m[31mconsole.error[39m[22m
+[31m    Warning: Invalid DOM property `fill-opacity`. Did you mean `fillOpacity`?[39m
+[31m        at path[39m
+[31m        at g[39m
+[31m        at svg[39m
+[31m        at div[39m
+[31m        at C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@emotion\react\dist\emotion-element-a1829a1e.cjs.js:58:23[39m
+[31m        at Box (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@mui\system\createBox\createBox.js:27:41)[39m
+[31m        at Loading (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\client\src\component\Loading\index.tsx:4:20)[39m
+[31m        at div[39m
+[31m        at C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@emotion\react\dist\emotion-element-a1829a1e.cjs.js:58:23[39m
+[31m        at Grid (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@mui\system\Grid\createGrid.js:85:19)[39m
+[31m        at div[39m
+[31m        at C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@emotion\react\dist\emotion-element-a1829a1e.cjs.js:58:23[39m
+[31m        at Box (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@mui\system\createBox\createBox.js:27:41)[39m
+[31m        at Tickets (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\client\src\app\tickets\tickets.tsx:38:11)[39m
+[31m        at Router (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\react-router-dom\node_modules\react-router\lib\components.tsx:290:13)[39m
+[31m        at BrowserRouter (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\react-router-dom\index.tsx:244:3)[39m
+[2m[22m
+[2m      [2mat printWarning ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:86:30)[22m[2m[22m
+[2m      [2mat error ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:60:7)[22m[2m[22m
+[2m      [2mat validateProperty$1 ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3749:9)[22m[2m[22m
+[2m      [2mat warnUnknownProperties ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3803:21)[22m[2m[22m
+[2m      [2mat validateProperties$2 ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3827:3)[22m[2m[22m
+[2m      [2mat validatePropertiesInDevelopment ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:9541:5)[22m[2m[22m
+[2m      [2mat setInitialProperties ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:9830:5)[22m[2m[22m
+
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A[999D[K
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A  [2m[31mconsole.error[39m[22m
+[31m    Warning: Invalid DOM property `stop-color`. Did you mean `stopColor`?[39m
+[31m        at stop[39m
+[31m        at linearGradient[39m
+[31m        at defs[39m
+[31m        at svg[39m
+[31m        at div[39m
+[31m        at C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@emotion\react\dist\emotion-element-a1829a1e.cjs.js:58:23[39m
+[31m        at Box (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@mui\system\createBox\createBox.js:27:41)[39m
+[31m        at Loading (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\client\src\component\Loading\index.tsx:4:20)[39m
+[31m        at div[39m
+[31m        at C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@emotion\react\dist\emotion-element-a1829a1e.cjs.js:58:23[39m
+[31m        at Grid (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@mui\system\Grid\createGrid.js:85:19)[39m
+[31m        at div[39m
+[31m        at C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@emotion\react\dist\emotion-element-a1829a1e.cjs.js:58:23[39m
+[31m        at Box (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@mui\system\createBox\createBox.js:27:41)[39m
+[31m        at Tickets (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\client\src\app\tickets\tickets.tsx:38:11)[39m
+[31m        at Router (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\react-router-dom\node_modules\react-router\lib\components.tsx:290:13)[39m
+[31m        at BrowserRouter (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\react-router-dom\index.tsx:244:3)[39m
+[2m[22m
+[2m      [2mat printWarning ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:86:30)[22m[2m[22m
+[2m      [2mat error ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:60:7)[22m[2m[22m
+[2m      [2mat validateProperty$1 ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3749:9)[22m[2m[22m
+[2m      [2mat warnUnknownProperties ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3803:21)[22m[2m[22m
+[2m      [2mat validateProperties$2 ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3827:3)[22m[2m[22m
+[2m      [2mat validatePropertiesInDevelopment ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:9541:5)[22m[2m[22m
+[2m      [2mat setInitialProperties ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:9830:5)[22m[2m[22m
+
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A[999D[K
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A  [2m[31mconsole.error[39m[22m
+[31m    Warning: Invalid DOM property `stop-opacity`. Did you mean `stopOpacity`?[39m
+[31m        at stop[39m
+[31m        at linearGradient[39m
+[31m        at defs[39m
+[31m        at svg[39m
+[31m        at div[39m
+[31m        at C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@emotion\react\dist\emotion-element-a1829a1e.cjs.js:58:23[39m
+[31m        at Box (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@mui\system\createBox\createBox.js:27:41)[39m
+[31m        at Loading (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\client\src\component\Loading\index.tsx:4:20)[39m
+[31m        at div[39m
+[31m        at C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@emotion\react\dist\emotion-element-a1829a1e.cjs.js:58:23[39m
+[31m        at Grid (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@mui\system\Grid\createGrid.js:85:19)[39m
+[31m        at div[39m
+[31m        at C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@emotion\react\dist\emotion-element-a1829a1e.cjs.js:58:23[39m
+[31m        at Box (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\@mui\system\createBox\createBox.js:27:41)[39m
+[31m        at Tickets (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\client\src\app\tickets\tickets.tsx:38:11)[39m
+[31m        at Router (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\react-router-dom\node_modules\react-router\lib\components.tsx:290:13)[39m
+[31m        at BrowserRouter (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\react-router-dom\index.tsx:244:3)[39m
+[2m[22m
+[2m      [2mat printWarning ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:86:30)[22m[2m[22m
+[2m      [2mat error ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:60:7)[22m[2m[22m
+[2m      [2mat validateProperty$1 ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3749:9)[22m[2m[22m
+[2m      [2mat warnUnknownProperties ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3803:21)[22m[2m[22m
+[2m      [2mat validateProperties$2 ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:3827:3)[22m[2m[22m
+[2m      [2mat validatePropertiesInDevelopment ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:9541:5)[22m[2m[22m
+[2m      [2mat setInitialProperties ([22m[2m../node_modules/react-dom/cjs/react-dom.development.js[2m:9830:5)[22m[2m[22m
+
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A[999D[K
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A  [2m[31mconsole.error[39m[22m
+[31m    Warning: Each child in a list should have a unique "key" prop.[39m
+[31m    [39m
+[31m    Check the render method of `Tickets`. See https://reactjs.org/link/warning-keys for more information.[39m
+[31m        at Suspense[39m
+[31m        at Tickets (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\client\src\app\tickets\tickets.tsx:38:11)[39m
+[31m        at Router (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\react-router-dom\node_modules\react-router\lib\components.tsx:290:13)[39m
+[31m        at BrowserRouter (C:\Users\User\OneDrive\Desktop\mealsuite\coding-assignment-mealsuite\node_modules\react-router-dom\index.tsx:244:3)[39m
+[2m[22m
+[2m    [0m [90m 121 |[39m         [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[22m
+[2m     [90m 122 |[39m[22m
+[2m    [31m[1m>[22m[2m[39m[90m 123 |[39m         [33m<[39m[33mGrid[39m className[33m=[39m{[32m"ticket-card-container"[39m} container spacing[33m=[39m{[35m2[39m}[33m>[39m[22m
+[2m     [90m     |[39m         [31m[1m^[22m[2m[39m[22m
+[2m     [90m 124 |[39m           {isLoading [33m?[39m [33m<[39m[33mLoading[39m [33m/[39m[33m>[39m [33m:[39m handleRenderTicketCard()}[22m
+[2m     [90m 125 |[39m         [33m<[39m[33m/[39m[33mGrid[39m[33m>[39m[22m
+[2m     [90m 126 |[39m       [33m<[39m[33m/[39m[33mBox[39m[33m>[39m[0m[22m
+[2m[22m
+[2m      [2mat printWarning ([22m[2m../node_modules/react/cjs/react-jsx-runtime.development.js[2m:87:30)[22m[2m[22m
+[2m      [2mat error ([22m[2m../node_modules/react/cjs/react-jsx-runtime.development.js[2m:61:7)[22m[2m[22m
+[2m      [2mat validateExplicitKey ([22m[2m../node_modules/react/cjs/react-jsx-runtime.development.js[2m:1078:5)[22m[2m[22m
+[2m      [2mat validateChildKeys ([22m[2m../node_modules/react/cjs/react-jsx-runtime.development.js[2m:1105:11)[22m[2m[22m
+[2m      [2mat jsxWithValidation ([22m[2m../node_modules/react/cjs/react-jsx-runtime.development.js[2m:1276:11)[22m[2m[22m
+[2m      [2mat jsxWithValidationDynamic ([22m[2m../node_modules/react/cjs/react-jsx-runtime.development.js[2m:1301:12)[22m[2m[22m
+[2m      [2mat Tickets ([22m[2msrc/app/tickets/tickets.tsx[2m:123:9)[22m[2m[22m
+
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A[0m[7m[1m[31m FAIL [39m[22m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A  Tickets Component
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A    [32m√[39m [2mshould render loading state when isLoading is true (370 ms)[22m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A    [32m√[39m [2mshould render all tickets when no filter is selected (102 ms)[22m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A    [32m√[39m [2mshould render completed tickets first (41 ms)[22m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A    [31m×[39m [2mshould filter completed tickets when selected (234 ms)[22m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A    [32m√[39m [2mshould open create task dialog when clicking Add Task (95 ms)[22m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A    [32m√[39m [2mshould navigate to ticket detail when clicking a ticket (31 ms)[22m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A    [32m√[39m [2mshould show unassigned for tickets without assignee (25 ms)[22m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A[1m[31m  [1m● [22m[1mTickets Component › should filter completed tickets when selected[39m[22m
+
+    The given element does not have a value setter
+[2m[22m
+[2m    [0m [90m 82 |[39m     [36mconst[39m dialog [33m=[39m screen[33m.[39mgetByRole([32m"dialog"[39m)[33m;[39m[22m
+[2m     [90m 83 |[39m     [36mconst[39m select [33m=[39m within(dialog)[33m.[39mgetByRole([32m"combobox"[39m)[33m;[39m[22m
+[2m    [31m[1m>[22m[2m[39m[90m 84 |[39m     fireEvent[33m.[39mchange(select[33m,[39m { target[33m:[39m { value[33m:[39m [32m"completed"[39m } })[33m;[39m[22m
+[2m     [90m    |[39m               [31m[1m^[22m[2m[39m[22m
+[2m     [90m 85 |[39m[22m
+[2m     [90m 86 |[39m     [90m// Should only show completed tasks[39m[22m
+[2m     [90m 87 |[39m     [36mconst[39m descriptions [33m=[39m screen[33m.[39mgetAllByText([35m/Task \d/[39m)[33m;[39m[0m[22m
+[2m[22m
+[2m      [2mat setNativeValue ([22m[2m../node_modules/@testing-library/dom/dist/events.js[2m:131:13)[22m[2m[22m
+[2m      [2mat createEvent ([22m[2m../node_modules/@testing-library/dom/dist/events.js[2m:41:5)[22m[2m[22m
+[2m      [2mat Function.createEvent.<computed> [as change] ([22m[2m../node_modules/@testing-library/dom/dist/events.js[2m:106:38)[22m[2m[22m
+[2m      [2mat Function.fireEvent.<computed> [as change] ([22m[2m../node_modules/@testing-library/dom/dist/events.js[2m:110:68)[22m[2m[22m
+[2m      [2mat Function.change ([22m[2m../node_modules/@testing-library/react/dist/fire-event.js[2m:18:52)[22m[2m[22m
+[2m      [2mat Object.<anonymous> ([22m[2m[0m[36msrc/app/tickets/tickets.spec.tsx[39m[0m[2m:84:15)[22m[2m[22m
+
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[K[1A[K[1A[999D[K[1mTest Suites: [22m[1m[31m1 failed[39m[22m, 1 total
+[1mTests:       [22m[1m[31m1 failed[39m[22m, [1m[32m6 passed[39m[22m, 7 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        4.927 s, estimated 5 s
+[2mRan all test suites[22m[2m.[22m

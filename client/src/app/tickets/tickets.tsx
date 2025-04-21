@@ -1,73 +1,176 @@
-import { Ticket } from "@acme/shared-models";
+import { Ticket, User } from "@acme/shared-models";
+import { Box, Button, MenuItem, Select, TextField } from "@mui/material";
 import Grid from "@mui/material/Grid";
-import styles from "./tickets.module.css";
-import { lazy, Suspense, useState } from "react";
-import { TicketCardSkeleton } from "client/src/component/TicketCard/Skeleton";
-import Loading from "client/src/component/Loading";
-import { Box, Button, TextField } from "@mui/material";
 import DialogComponent from "client/src/component/Dialog";
+import Loading from "client/src/component/Loading";
+import { TicketCardSkeleton } from "client/src/component/TicketCard/Skeleton";
+import baseApi from "client/src/services/baseService";
+import TicketService from "client/src/services/ticketService";
+import { lazy, Suspense, useState } from "react";
+import { useNavigate } from "react-router-dom";
+import "./tickets.scss";
 
 const TicketCard = lazy(() => import("client/src/component/TicketCard"));
 
 export interface TicketsProps {
   tickets: Ticket[];
   isLoading: boolean;
+  fetchTickets: () => Promise<void>;
+  users: User[];
 }
 
+export const statusOption = [
+  {
+    name: "All",
+    value: "all",
+  },
+  {
+    name: "Incompleted",
+    value: "incompleted",
+  },
+  {
+    name: "Completed",
+    value: "completed",
+  },
+];
+
 export function Tickets(props: TicketsProps) {
-  const { tickets, isLoading } = props;
-  const [open, setOpen] = useState(false);
+  const { tickets, isLoading, fetchTickets, users } = props;
+  const [openCreate, setOpenCreate] = useState<boolean>(false);
+  const [openFilter, setOpenFilter] = useState<boolean>(false);
+  const [taskName, setTaskName] = useState<string>("");
+  const [isDisabled, setIsDisabled] = useState<boolean>(false);
+  const [status, setStatus] = useState<string>("");
+
+  const navigate = useNavigate();
+  const ticketService = TicketService(baseApi);
+
+  const handleViewDetails = (id: number) => {
+    navigate(`/${id}`);
+  };
+
+  const handleCreateTicket = async () => {
+    setIsDisabled(true);
+    const result = await ticketService.createTicket({
+      description: taskName,
+    });
+    setOpenCreate(false);
+    setTaskName("");
+    if (result.isError) {
+    } else {
+      await fetchTickets();
+    }
+    setIsDisabled(false);
+  };
 
   const handleRenderTicketCard = () => {
-    return tickets.map((item, key) => (
-      <Suspense fallback={<TicketCardSkeleton />}>
-        <TicketCard ticket={item} key={key} />
-      </Suspense>
-    ));
+    const mappedStatus = status === "completed";
+    return tickets
+      .filter((item) =>
+        status === "" || status === "all"
+          ? true
+          : item.completed === mappedStatus
+      )
+      .sort((a, b) => {
+        if (a.completed !== b.completed) {
+          return a.completed ? -1 : 1;
+        }
+        return a.id - b.id;
+      })
+      .map((item, key) => (
+        <Suspense fallback={<TicketCardSkeleton />}>
+          <TicketCard
+            handleViewDetails={() => handleViewDetails(item.id)}
+            ticket={item}
+            key={key}
+            user={
+              users.find((user) => user.id === item.assigneeId) || {
+                id: 0,
+                name: "Unassigned",
+              }
+            }
+          />
+        </Suspense>
+      ));
   };
 
   return (
-    <Box>
-      <Button
-        variant="contained"
-        onClick={() => {
-          setOpen(true);
-        }}
-        color="primary"
-      >
-        Add Task
-      </Button>
-      <Grid className={styles["ticket-card-container"]} container spacing={2}>
-        {isLoading ? (
-          <Box
-            sx={{
-              display: "flex",
-              justifyContent: "center",
-              alignItems: "center",
-              height: "100%",
-              width: "100%",
+    <>
+      <Box>
+        <div className="action-buttons">
+          <Button
+            variant="contained"
+            onClick={() => {
+              setOpenCreate(true);
             }}
+            color="primary"
+            className="add-task-button"
           >
-            <Loading />
-          </Box>
-        ) : (
-          handleRenderTicketCard()
-        )}
-      </Grid>
+            Add Task
+          </Button>
+          <Button
+            variant="contained"
+            onClick={() => {
+              setOpenFilter(true);
+            }}
+            color="primary"
+            className="filter-button"
+          >
+            Filter
+          </Button>
+        </div>
+
+        <Grid className={"ticket-card-container"} container spacing={2}>
+          {isLoading ? <Loading /> : handleRenderTicketCard()}
+        </Grid>
+      </Box>
       <DialogComponent
-        open={open}
-        handleClose={() => setOpen(false)}
+        open={openCreate}
+        handleClose={() => setOpenCreate(false)}
+        handleSubmit={handleCreateTicket}
         title="Add Task"
+        isDisabled={isDisabled}
         content={
           <TextField
+            onChange={(e) => setTaskName(e.target.value)}
             id="outlined-basic"
             label="Task Name"
             variant="outlined"
             fullWidth
+            className="dialog-text-field"
+            autoFocus
           />
         }
       />
-    </Box>
+      <DialogComponent
+        open={openFilter}
+        handleClose={() => setOpenFilter(false)}
+        title="Filter"
+        isDisabled={isDisabled}
+        isHaveRightButton={false}
+        content={
+          <Select
+            sx={{ fontSize: 20 }}
+            disabled={isDisabled}
+            value={status}
+            onChange={(e) => {
+              setStatus(e.target.value);
+            }}
+            fullWidth
+          >
+            {statusOption?.map((option) => (
+              <MenuItem
+                sx={{ fontSize: 20 }}
+                key={option.value}
+                value={option.value}
+              >
+                {option.name}
+              </MenuItem>
+            ))}
+          </Select>
+        }
+      />
+    </>
   );
 }
 
