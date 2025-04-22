@@ -1,0 +1,323 @@
+<i> [1m[32m[webpack-dev-server] [HPM] Proxy created: /api  -> http://localhost:3333[39m[22m
+<i> [1m[32m[webpack-dev-server] Project is running at:[39m[22m
+<i> [1m[32m[webpack-dev-server] Loopback: [36mhttp://localhost:4200/[39m, [36mhttp://127.0.0.1:4200/[39m[39m[22m
+<i> [1m[32m[webpack-dev-server] 404s will fallback to '[36m/index.html[39m'[39m[22m
+
+[36m>[39m [7m[1m[36m NX [39m[22m[27m [1mWeb Development Server is listening at http://localhost:4200/[22m
+
+<i> [1m[32m[webpack-dev-middleware] wait until bundle finished: /styles.css[39m[22m
+<i> [1m[32m[webpack-dev-middleware] wait until bundle finished: /main.css[39m[22m
+<i> [1m[32m[webpack-dev-middleware] wait until bundle finished: /runtime.js.map[39m[22m
+<i> [1m[32m[webpack-dev-middleware] wait until bundle finished: /styles.js.map[39m[22m
+<i> [1m[32m[webpack-dev-middleware] wait until bundle finished: /vendor.js.map[39m[22m
+<i> [1m[32m[webpack-dev-middleware] wait until bundle finished: /main.js.map[39m[22m
+Entrypoint [1mmain[39m[22m [1m[33m[big][39m[22m 2.9 MiB (3.44 MiB) = [1m[32mruntime.js[39m[22m 50.8 KiB [1m[32mvendor.js[39m[22m 2.76 MiB [1m[32mmain.css[39m[22m 7.21 KiB [1m[32mmain.js[39m[22m 88.5 KiB 4 auxiliary assets
+Entrypoint [1mstyles[39m[22m 222 KiB (280 KiB) = [1m[32mruntime.js[39m[22m 50.8 KiB [1m[32mstyles.css[39m[22m 120 bytes [1m[32mstyles.js[39m[22m 172 KiB 3 auxiliary assets
+chunk (runtime: runtime) [1m[32mmain.css[39m[22m, [1m[32mmain.js[39m[22m (main) 82.8 KiB (javascript) 7.17 KiB (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mruntime.js[39m[22m (runtime) 34.1 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mstyles.css[39m[22m, [1m[32mstyles.js[39m[22m (styles) 166 KiB (javascript) 81 bytes (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mvendor.js[39m[22m (vendor) (id hint: vendor) 2.56 MiB [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m [1m[33msplit chunk (cache group: vendor) (name: vendor)[39m[22m
+chunk (runtime: runtime) [1m[32m4.js[39m[22m (id hint: vendors) 30.5 KiB [1m[32m[rendered][39m[22m [1m[33msplit chunk (cache group: defaultVendors)[39m[22m
+chunk (runtime: runtime) [1m[32m5.js[39m[22m 4.28 KiB [1m[32m[rendered][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (b6a59693c9c359a8)
+(node:29832) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Entrypoint [1mmain[39m[22m [1m[33m[big][39m[22m 2.99 MiB (3.51 MiB) = 6 assets 6 auxiliary assets
+Entrypoint [1mstyles[39m[22m 223 KiB (281 KiB) = [1m[32mruntime.js[39m[22m 50.8 KiB [1m[32m1.b6a59693c9c359a8.hot-update.js[39m[22m 351 bytes [1m[32mstyles.css[39m[22m 120 bytes [1m[32mstyles.js[39m[22m 172 KiB [1m[32m2.b6a59693c9c359a8.hot-update.js[39m[22m 524 bytes 5 auxiliary assets
+chunk (runtime: runtime) [1m[32mmain.css[39m[22m, [1m[32mmain.js[39m[22m, [1m[32m0.b6a59693c9c359a8.hot-update.js[39m[22m (main) 82.8 KiB (javascript) 7.17 KiB (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mruntime.js[39m[22m, [1m[32m1.b6a59693c9c359a8.hot-update.js[39m[22m (runtime) 34.1 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mstyles.css[39m[22m, [1m[32mstyles.js[39m[22m, [1m[32m2.b6a59693c9c359a8.hot-update.js[39m[22m (styles) 166 KiB (javascript) 81 bytes (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mvendor.js[39m[22m (vendor) (id hint: vendor) 2.56 MiB [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m [1m[33msplit chunk (cache group: vendor) (name: vendor)[39m[22m
+chunk (runtime: runtime) [1m[32m4.js[39m[22m (id hint: vendors) 30.5 KiB [1m[32m[rendered][39m[22m [1m[33msplit chunk (cache group: defaultVendors)[39m[22m
+chunk (runtime: runtime) [1m[32m5.js[39m[22m 4.28 KiB [1m[32m[rendered][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (7b11b062b8f9a1d2)
+Entrypoint [1mmain[39m[22m [1m[33m[big][39m[22m 2.99 MiB (3.51 MiB) = 6 assets 6 auxiliary assets
+Entrypoint [1mstyles[39m[22m 223 KiB (281 KiB) = [1m[32mruntime.js[39m[22m 50.8 KiB [1m[32m1.7b11b062b8f9a1d2.hot-update.js[39m[22m 351 bytes [1m[32mstyles.css[39m[22m 120 bytes [1m[32mstyles.js[39m[22m 172 KiB [1m[32m2.7b11b062b8f9a1d2.hot-update.js[39m[22m 524 bytes 5 auxiliary assets
+chunk (runtime: runtime) [1m[32mmain.css[39m[22m, [1m[32mmain.js[39m[22m, [1m[32m0.7b11b062b8f9a1d2.hot-update.js[39m[22m (main) 82.8 KiB (javascript) 7.17 KiB (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mruntime.js[39m[22m, [1m[32m1.7b11b062b8f9a1d2.hot-update.js[39m[22m (runtime) 34.1 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mstyles.css[39m[22m, [1m[32mstyles.js[39m[22m, [1m[32m2.7b11b062b8f9a1d2.hot-update.js[39m[22m (styles) 166 KiB (javascript) 81 bytes (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mvendor.js[39m[22m (vendor) (id hint: vendor) 2.56 MiB [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m [1m[33msplit chunk (cache group: vendor) (name: vendor)[39m[22m
+chunk (runtime: runtime) [1m[32m4.js[39m[22m (id hint: vendors) 30.5 KiB [1m[32m[rendered][39m[22m [1m[33msplit chunk (cache group: defaultVendors)[39m[22m
+chunk (runtime: runtime) [1m[32m5.js[39m[22m 4.28 KiB [1m[32m[rendered][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (d3a0dc9c9f947e34)
+<i> [1m[32m[webpack-dev-middleware] wait until bundle finished: /[39m[22m
+Entrypoint [1mmain[39m[22m [1m[33m[big][39m[22m 2.99 MiB (3.51 MiB) = 6 assets 6 auxiliary assets
+Entrypoint [1mstyles[39m[22m 223 KiB (281 KiB) = [1m[32mruntime.js[39m[22m 50.8 KiB [1m[32m1.d3a0dc9c9f947e34.hot-update.js[39m[22m 351 bytes [1m[32mstyles.css[39m[22m 120 bytes [1m[32mstyles.js[39m[22m 172 KiB [1m[32m2.d3a0dc9c9f947e34.hot-update.js[39m[22m 524 bytes 5 auxiliary assets
+chunk (runtime: runtime) [1m[32mmain.css[39m[22m, [1m[32mmain.js[39m[22m, [1m[32m0.d3a0dc9c9f947e34.hot-update.js[39m[22m (main) 82.7 KiB (javascript) 7.17 KiB (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mruntime.js[39m[22m, [1m[32m1.d3a0dc9c9f947e34.hot-update.js[39m[22m (runtime) 34.1 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mstyles.css[39m[22m, [1m[32mstyles.js[39m[22m, [1m[32m2.d3a0dc9c9f947e34.hot-update.js[39m[22m (styles) 166 KiB (javascript) 81 bytes (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mvendor.js[39m[22m (vendor) (id hint: vendor) 2.56 MiB [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m [1m[33msplit chunk (cache group: vendor) (name: vendor)[39m[22m
+chunk (runtime: runtime) [1m[32m4.js[39m[22m (id hint: vendors) 30.5 KiB [1m[32m[rendered][39m[22m [1m[33msplit chunk (cache group: defaultVendors)[39m[22m
+chunk (runtime: runtime) [1m[32m5.js[39m[22m 4.28 KiB [1m[32m[rendered][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (65d845151d4dfee1)
+<i> [1m[32m[webpack-dev-middleware] wait until bundle finished: /2[39m[22m
+Entrypoint [1mmain[39m[22m [1m[33m[big][39m[22m 2.99 MiB (3.51 MiB) = 6 assets 6 auxiliary assets
+Entrypoint [1mstyles[39m[22m 223 KiB (281 KiB) = [1m[32mruntime.js[39m[22m 50.8 KiB [1m[32m1.65d845151d4dfee1.hot-update.js[39m[22m 351 bytes [1m[32mstyles.css[39m[22m 120 bytes [1m[32mstyles.js[39m[22m 172 KiB [1m[32m2.65d845151d4dfee1.hot-update.js[39m[22m 524 bytes 5 auxiliary assets
+chunk (runtime: runtime) [1m[32mmain.css[39m[22m, [1m[32mmain.js[39m[22m, [1m[32m0.65d845151d4dfee1.hot-update.js[39m[22m (main) 82.7 KiB (javascript) 7.17 KiB (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mruntime.js[39m[22m, [1m[32m1.65d845151d4dfee1.hot-update.js[39m[22m (runtime) 34.1 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mstyles.css[39m[22m, [1m[32mstyles.js[39m[22m, [1m[32m2.65d845151d4dfee1.hot-update.js[39m[22m (styles) 166 KiB (javascript) 81 bytes (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mvendor.js[39m[22m (vendor) (id hint: vendor) 2.56 MiB [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m [1m[33msplit chunk (cache group: vendor) (name: vendor)[39m[22m
+chunk (runtime: runtime) [1m[32m4.js[39m[22m (id hint: vendors) 30.5 KiB [1m[32m[rendered][39m[22m [1m[33msplit chunk (cache group: defaultVendors)[39m[22m
+chunk (runtime: runtime) [1m[32m5.js[39m[22m 4.28 KiB [1m[32m[rendered][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (d19dafc43cbdaf40)
+Entrypoint [1mmain[39m[22m = 6 assets 6 auxiliary assets
+Entrypoint [1mstyles[39m[22m = [1m[32mruntime.js[39m[22m [1m[32m1.d19dafc43cbdaf40.hot-update.js[39m[22m [1m[32mstyles.css[39m[22m [1m[32mstyles.js[39m[22m [1m[32m2.d19dafc43cbdaf40.hot-update.js[39m[22m 5 auxiliary assets
+chunk (runtime: runtime) [1m[32mmain.css[39m[22m, [1m[32mmain.js[39m[22m, [1m[32m0.d19dafc43cbdaf40.hot-update.js[39m[22m (main) 82.7 KiB (javascript) 7.17 KiB (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mruntime.js[39m[22m, [1m[32m1.d19dafc43cbdaf40.hot-update.js[39m[22m (runtime) 34.1 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mstyles.css[39m[22m, [1m[32mstyles.js[39m[22m, [1m[32m2.d19dafc43cbdaf40.hot-update.js[39m[22m (styles) 166 KiB (javascript) 81 bytes (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mvendor.js[39m[22m (vendor) (id hint: vendor) 2.56 MiB [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m [1m[33msplit chunk (cache group: vendor) (name: vendor)[39m[22m
+chunk (runtime: runtime) [1m[32m4.js[39m[22m (id hint: vendors) 30.5 KiB [1m[32m[rendered][39m[22m [1m[33msplit chunk (cache group: defaultVendors)[39m[22m
+chunk (runtime: runtime) [1m[32m5.js[39m[22m 4.28 KiB [1m[32m[rendered][39m[22m
+
+[1m[31mERROR[39m[22m in [1m./client/src/app/tickets/tickets.tsx:[32m[1m70:43[22m[39m[1m[39m[22m
+[90mTS7015: [39mElement implicitly has an 'any' type because index expression is not of type 'number'.
+  [0m [90m 68 |[39m     [36mreturn[39m tickets
+   [90m 69 |[39m       [33m.[39mfilter((item) [33m=>[39m
+  [31m[1m>[22m[39m[90m 70 |[39m         status [33m===[39m [32m''[39m [33m||[39m status [33m===[39m [32m'all'[39m[([32m''[39m[33m,[39m [32m'all'[39m)][33m.[39mincludes(status)
+   [90m    |[39m                                           [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 71 |[39m           [33m?[39m [36mtrue[39m
+   [90m 72 |[39m           [33m:[39m item[33m.[39mcompleted [33m===[39m mappedStatus
+   [90m 73 |[39m       )[0m
+
+[1m[31mERROR[39m[22m in [1m./client/src/app/tickets/tickets.tsx:[32m[1m70:44[22m[39m[1m[39m[22m
+[90mTS2695: [39mLeft side of comma operator is unused and has no side effects.
+  [0m [90m 68 |[39m     [36mreturn[39m tickets
+   [90m 69 |[39m       [33m.[39mfilter((item) [33m=>[39m
+  [31m[1m>[22m[39m[90m 70 |[39m         status [33m===[39m [32m''[39m [33m||[39m status [33m===[39m [32m'all'[39m[([32m''[39m[33m,[39m [32m'all'[39m)][33m.[39mincludes(status)
+   [90m    |[39m                                            [31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 71 |[39m           [33m?[39m [36mtrue[39m
+   [90m 72 |[39m           [33m:[39m item[33m.[39mcompleted [33m===[39m mappedStatus
+   [90m 73 |[39m       )[0m
+
+webpack compiled with [1m[31m2 errors[39m[22m (11949472a208f50b)
+Entrypoint [1mmain[39m[22m = 6 assets 6 auxiliary assets
+Entrypoint [1mstyles[39m[22m = [1m[32mruntime.js[39m[22m [1m[32m1.11949472a208f50b.hot-update.js[39m[22m [1m[32mstyles.css[39m[22m [1m[32mstyles.js[39m[22m [1m[32m2.11949472a208f50b.hot-update.js[39m[22m 5 auxiliary assets
+chunk (runtime: runtime) [1m[32mmain.css[39m[22m, [1m[32mmain.js[39m[22m, [1m[32m0.11949472a208f50b.hot-update.js[39m[22m (main) 82.7 KiB (javascript) 7.17 KiB (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mruntime.js[39m[22m, [1m[32m1.11949472a208f50b.hot-update.js[39m[22m (runtime) 34.1 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mstyles.css[39m[22m, [1m[32mstyles.js[39m[22m, [1m[32m2.11949472a208f50b.hot-update.js[39m[22m (styles) 166 KiB (javascript) 81 bytes (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mvendor.js[39m[22m (vendor) (id hint: vendor) 2.56 MiB [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m [1m[33msplit chunk (cache group: vendor) (name: vendor)[39m[22m
+chunk (runtime: runtime) [1m[32m4.js[39m[22m (id hint: vendors) 30.5 KiB [1m[32m[rendered][39m[22m [1m[33msplit chunk (cache group: defaultVendors)[39m[22m
+chunk (runtime: runtime) [1m[32m5.js[39m[22m 4.28 KiB [1m[32m[rendered][39m[22m
+
+[1m[31mERROR[39m[22m in [1m./client/src/app/tickets/tickets.tsx:[32m[1m70:43[22m[39m[1m[39m[22m
+[90mTS7015: [39mElement implicitly has an 'any' type because index expression is not of type 'number'.
+  [0m [90m 68 |[39m     [36mreturn[39m tickets
+   [90m 69 |[39m       [33m.[39mfilter((item) [33m=>[39m
+  [31m[1m>[22m[39m[90m 70 |[39m         status [33m===[39m [32m''[39m [33m||[39m status [33m===[39m [32m'all'[39m[([32m''[39m[33m,[39m [32m'all'[39m)][33m.[39mincludes(status)
+   [90m    |[39m                                           [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 71 |[39m           [33m?[39m [36mtrue[39m
+   [90m 72 |[39m           [33m:[39m item[33m.[39mcompleted [33m===[39m mappedStatus
+   [90m 73 |[39m       )[0m
+
+[1m[31mERROR[39m[22m in [1m./client/src/app/tickets/tickets.tsx:[32m[1m70:44[22m[39m[1m[39m[22m
+[90mTS2695: [39mLeft side of comma operator is unused and has no side effects.
+  [0m [90m 68 |[39m     [36mreturn[39m tickets
+   [90m 69 |[39m       [33m.[39mfilter((item) [33m=>[39m
+  [31m[1m>[22m[39m[90m 70 |[39m         status [33m===[39m [32m''[39m [33m||[39m status [33m===[39m [32m'all'[39m[([32m''[39m[33m,[39m [32m'all'[39m)][33m.[39mincludes(status)
+   [90m    |[39m                                            [31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 71 |[39m           [33m?[39m [36mtrue[39m
+   [90m 72 |[39m           [33m:[39m item[33m.[39mcompleted [33m===[39m mappedStatus
+   [90m 73 |[39m       )[0m
+
+webpack compiled with [1m[31m2 errors[39m[22m (3e670857aa8ff48d)
+Entrypoint [1mmain[39m[22m [1m[33m[big][39m[22m 2.99 MiB (3.51 MiB) = 6 assets 6 auxiliary assets
+Entrypoint [1mstyles[39m[22m 223 KiB (281 KiB) = [1m[32mruntime.js[39m[22m 50.8 KiB [1m[32m1.3e670857aa8ff48d.hot-update.js[39m[22m 351 bytes [1m[32mstyles.css[39m[22m 120 bytes [1m[32mstyles.js[39m[22m 172 KiB [1m[32m2.3e670857aa8ff48d.hot-update.js[39m[22m 524 bytes 5 auxiliary assets
+chunk (runtime: runtime) [1m[32mmain.css[39m[22m, [1m[32mmain.js[39m[22m, [1m[32m0.3e670857aa8ff48d.hot-update.js[39m[22m (main) 82.7 KiB (javascript) 7.17 KiB (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mruntime.js[39m[22m, [1m[32m1.3e670857aa8ff48d.hot-update.js[39m[22m (runtime) 34.1 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mstyles.css[39m[22m, [1m[32mstyles.js[39m[22m, [1m[32m2.3e670857aa8ff48d.hot-update.js[39m[22m (styles) 166 KiB (javascript) 81 bytes (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mvendor.js[39m[22m (vendor) (id hint: vendor) 2.56 MiB [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m [1m[33msplit chunk (cache group: vendor) (name: vendor)[39m[22m
+chunk (runtime: runtime) [1m[32m4.js[39m[22m (id hint: vendors) 30.5 KiB [1m[32m[rendered][39m[22m [1m[33msplit chunk (cache group: defaultVendors)[39m[22m
+chunk (runtime: runtime) [1m[32m5.js[39m[22m 4.28 KiB [1m[32m[rendered][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (ef894386cd9660fb)
+Entrypoint [1mmain[39m[22m = 6 assets 6 auxiliary assets
+Entrypoint [1mstyles[39m[22m = [1m[32mruntime.js[39m[22m [1m[32m1.ef894386cd9660fb.hot-update.js[39m[22m [1m[32mstyles.css[39m[22m [1m[32mstyles.js[39m[22m [1m[32m2.ef894386cd9660fb.hot-update.js[39m[22m 5 auxiliary assets
+chunk (runtime: runtime) [1m[32mmain.css[39m[22m, [1m[32mmain.js[39m[22m, [1m[32m0.ef894386cd9660fb.hot-update.js[39m[22m (main) 82.7 KiB (javascript) 7.17 KiB (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mruntime.js[39m[22m, [1m[32m1.ef894386cd9660fb.hot-update.js[39m[22m (runtime) 34.1 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mstyles.css[39m[22m, [1m[32mstyles.js[39m[22m, [1m[32m2.ef894386cd9660fb.hot-update.js[39m[22m (styles) 166 KiB (javascript) 81 bytes (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mvendor.js[39m[22m (vendor) (id hint: vendor) 2.56 MiB [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m [1m[33msplit chunk (cache group: vendor) (name: vendor)[39m[22m
+chunk (runtime: runtime) [1m[32m4.js[39m[22m (id hint: vendors) 30.5 KiB [1m[32m[rendered][39m[22m [1m[33msplit chunk (cache group: defaultVendors)[39m[22m
+chunk (runtime: runtime) [1m[32m5.js[39m[22m 4.28 KiB [1m[32m[rendered][39m[22m
+
+[1m[31mERROR[39m[22m in [1m./client/src/app/app.tsx:[32m[1m45:15[22m[39m[1m[39m[22m
+[90mTS2322: [39mType 'Ticket[]' is not assignable to type 'never'.
+  [0m [90m 43 |[39m           element[33m=[39m{
+   [90m 44 |[39m             [33m<[39m[33mTickets[39m
+  [31m[1m>[22m[39m[90m 45 |[39m               tickets[33m=[39m{tickets}
+   [90m    |[39m               [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 46 |[39m               isLoading[33m=[39m{isLoading}
+   [90m 47 |[39m               fetchTickets[33m=[39m{fetchTickets}
+   [90m 48 |[39m               users[33m=[39m{users}[0m
+
+[1m[31mERROR[39m[22m in [1m./client/src/app/app.tsx:[32m[1m46:15[22m[39m[1m[39m[22m
+[90mTS2322: [39mType 'boolean' is not assignable to type 'never'.
+  [0m [90m 44 |[39m             [33m<[39m[33mTickets[39m
+   [90m 45 |[39m               tickets[33m=[39m{tickets}
+  [31m[1m>[22m[39m[90m 46 |[39m               isLoading[33m=[39m{isLoading}
+   [90m    |[39m               [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 47 |[39m               fetchTickets[33m=[39m{fetchTickets}
+   [90m 48 |[39m               users[33m=[39m{users}
+   [90m 49 |[39m             [33m/[39m[33m>[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./client/src/app/app.tsx:[32m[1m47:15[22m[39m[1m[39m[22m
+[90mTS2322: [39mType '() => Promise<void>' is not assignable to type 'never'.
+  [0m [90m 45 |[39m               tickets[33m=[39m{tickets}
+   [90m 46 |[39m               isLoading[33m=[39m{isLoading}
+  [31m[1m>[22m[39m[90m 47 |[39m               fetchTickets[33m=[39m{fetchTickets}
+   [90m    |[39m               [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 48 |[39m               users[33m=[39m{users}
+   [90m 49 |[39m             [33m/[39m[33m>[39m
+   [90m 50 |[39m           }[0m
+
+[1m[31mERROR[39m[22m in [1m./client/src/app/app.tsx:[32m[1m48:15[22m[39m[1m[39m[22m
+[90mTS2322: [39mType 'User[]' is not assignable to type 'never'.
+  [0m [90m 46 |[39m               isLoading[33m=[39m{isLoading}
+   [90m 47 |[39m               fetchTickets[33m=[39m{fetchTickets}
+  [31m[1m>[22m[39m[90m 48 |[39m               users[33m=[39m{users}
+   [90m    |[39m               [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 49 |[39m             [33m/[39m[33m>[39m
+   [90m 50 |[39m           }
+   [90m 51 |[39m         [33m/[39m[33m>[39m[0m
+
+webpack compiled with [1m[31m4 errors[39m[22m (bf4ba89ad431d88a)
+Entrypoint [1mmain[39m[22m = 6 assets 6 auxiliary assets
+Entrypoint [1mstyles[39m[22m = [1m[32mruntime.js[39m[22m [1m[32m1.bf4ba89ad431d88a.hot-update.js[39m[22m [1m[32mstyles.css[39m[22m [1m[32mstyles.js[39m[22m [1m[32m2.bf4ba89ad431d88a.hot-update.js[39m[22m 5 auxiliary assets
+chunk (runtime: runtime) [1m[32mmain.css[39m[22m, [1m[32mmain.js[39m[22m, [1m[32m0.bf4ba89ad431d88a.hot-update.js[39m[22m (main) 82.7 KiB (javascript) 7.17 KiB (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mruntime.js[39m[22m, [1m[32m1.bf4ba89ad431d88a.hot-update.js[39m[22m (runtime) 34.1 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mstyles.css[39m[22m, [1m[32mstyles.js[39m[22m, [1m[32m2.bf4ba89ad431d88a.hot-update.js[39m[22m (styles) 166 KiB (javascript) 81 bytes (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mvendor.js[39m[22m (vendor) (id hint: vendor) 2.56 MiB [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m [1m[33msplit chunk (cache group: vendor) (name: vendor)[39m[22m
+chunk (runtime: runtime) [1m[32m4.js[39m[22m (id hint: vendors) 30.5 KiB [1m[32m[rendered][39m[22m [1m[33msplit chunk (cache group: defaultVendors)[39m[22m
+chunk (runtime: runtime) [1m[32m5.js[39m[22m 4.28 KiB [1m[32m[rendered][39m[22m
+
+[1m[31mERROR[39m[22m in [1m./client/src/app/app.tsx:[32m[1m45:15[22m[39m[1m[39m[22m
+[90mTS2322: [39mType 'Ticket[]' is not assignable to type 'never'.
+  [0m [90m 43 |[39m           element[33m=[39m{
+   [90m 44 |[39m             [33m<[39m[33mTickets[39m
+  [31m[1m>[22m[39m[90m 45 |[39m               tickets[33m=[39m{tickets}
+   [90m    |[39m               [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 46 |[39m               isLoading[33m=[39m{isLoading}
+   [90m 47 |[39m               fetchTickets[33m=[39m{fetchTickets}
+   [90m 48 |[39m               users[33m=[39m{users}[0m
+
+[1m[31mERROR[39m[22m in [1m./client/src/app/app.tsx:[32m[1m46:15[22m[39m[1m[39m[22m
+[90mTS2322: [39mType 'boolean' is not assignable to type 'never'.
+  [0m [90m 44 |[39m             [33m<[39m[33mTickets[39m
+   [90m 45 |[39m               tickets[33m=[39m{tickets}
+  [31m[1m>[22m[39m[90m 46 |[39m               isLoading[33m=[39m{isLoading}
+   [90m    |[39m               [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 47 |[39m               fetchTickets[33m=[39m{fetchTickets}
+   [90m 48 |[39m               users[33m=[39m{users}
+   [90m 49 |[39m             [33m/[39m[33m>[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./client/src/app/app.tsx:[32m[1m47:15[22m[39m[1m[39m[22m
+[90mTS2322: [39mType '() => Promise<void>' is not assignable to type 'never'.
+  [0m [90m 45 |[39m               tickets[33m=[39m{tickets}
+   [90m 46 |[39m               isLoading[33m=[39m{isLoading}
+  [31m[1m>[22m[39m[90m 47 |[39m               fetchTickets[33m=[39m{fetchTickets}
+   [90m    |[39m               [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 48 |[39m               users[33m=[39m{users}
+   [90m 49 |[39m             [33m/[39m[33m>[39m
+   [90m 50 |[39m           }[0m
+
+[1m[31mERROR[39m[22m in [1m./client/src/app/app.tsx:[32m[1m48:15[22m[39m[1m[39m[22m
+[90mTS2322: [39mType 'User[]' is not assignable to type 'never'.
+  [0m [90m 46 |[39m               isLoading[33m=[39m{isLoading}
+   [90m 47 |[39m               fetchTickets[33m=[39m{fetchTickets}
+  [31m[1m>[22m[39m[90m 48 |[39m               users[33m=[39m{users}
+   [90m    |[39m               [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 49 |[39m             [33m/[39m[33m>[39m
+   [90m 50 |[39m           }
+   [90m 51 |[39m         [33m/[39m[33m>[39m[0m
+
+webpack compiled with [1m[31m4 errors[39m[22m (412fdfaed3206622)
+Entrypoint [1mmain[39m[22m = 6 assets 6 auxiliary assets
+Entrypoint [1mstyles[39m[22m = [1m[32mruntime.js[39m[22m [1m[32m1.412fdfaed3206622.hot-update.js[39m[22m [1m[32mstyles.css[39m[22m [1m[32mstyles.js[39m[22m [1m[32m2.412fdfaed3206622.hot-update.js[39m[22m 5 auxiliary assets
+chunk (runtime: runtime) [1m[32mmain.css[39m[22m, [1m[32mmain.js[39m[22m, [1m[32m0.412fdfaed3206622.hot-update.js[39m[22m (main) 82.7 KiB (javascript) 7.17 KiB (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mruntime.js[39m[22m, [1m[32m1.412fdfaed3206622.hot-update.js[39m[22m (runtime) 34.1 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mstyles.css[39m[22m, [1m[32mstyles.js[39m[22m, [1m[32m2.412fdfaed3206622.hot-update.js[39m[22m (styles) 166 KiB (javascript) 81 bytes (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mvendor.js[39m[22m (vendor) (id hint: vendor) 2.56 MiB [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m [1m[33msplit chunk (cache group: vendor) (name: vendor)[39m[22m
+chunk (runtime: runtime) [1m[32m4.js[39m[22m (id hint: vendors) 30.5 KiB [1m[32m[rendered][39m[22m [1m[33msplit chunk (cache group: defaultVendors)[39m[22m
+chunk (runtime: runtime) [1m[32m5.js[39m[22m 4.28 KiB [1m[32m[rendered][39m[22m
+
+[1m[31mERROR[39m[22m in [1m./client/src/app/app.tsx:[32m[1m45:15[22m[39m[1m[39m[22m
+[90mTS2322: [39mType 'Ticket[]' is not assignable to type 'never'.
+  [0m [90m 43 |[39m           element[33m=[39m{
+   [90m 44 |[39m             [33m<[39m[33mTickets[39m
+  [31m[1m>[22m[39m[90m 45 |[39m               tickets[33m=[39m{tickets}
+   [90m    |[39m               [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 46 |[39m               isLoading[33m=[39m{isLoading}
+   [90m 47 |[39m               fetchTickets[33m=[39m{fetchTickets}
+   [90m 48 |[39m               users[33m=[39m{users}[0m
+
+[1m[31mERROR[39m[22m in [1m./client/src/app/app.tsx:[32m[1m46:15[22m[39m[1m[39m[22m
+[90mTS2322: [39mType 'boolean' is not assignable to type 'never'.
+  [0m [90m 44 |[39m             [33m<[39m[33mTickets[39m
+   [90m 45 |[39m               tickets[33m=[39m{tickets}
+  [31m[1m>[22m[39m[90m 46 |[39m               isLoading[33m=[39m{isLoading}
+   [90m    |[39m               [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 47 |[39m               fetchTickets[33m=[39m{fetchTickets}
+   [90m 48 |[39m               users[33m=[39m{users}
+   [90m 49 |[39m             [33m/[39m[33m>[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./client/src/app/app.tsx:[32m[1m47:15[22m[39m[1m[39m[22m
+[90mTS2322: [39mType '() => Promise<void>' is not assignable to type 'never'.
+  [0m [90m 45 |[39m               tickets[33m=[39m{tickets}
+   [90m 46 |[39m               isLoading[33m=[39m{isLoading}
+  [31m[1m>[22m[39m[90m 47 |[39m               fetchTickets[33m=[39m{fetchTickets}
+   [90m    |[39m               [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 48 |[39m               users[33m=[39m{users}
+   [90m 49 |[39m             [33m/[39m[33m>[39m
+   [90m 50 |[39m           }[0m
+
+[1m[31mERROR[39m[22m in [1m./client/src/app/app.tsx:[32m[1m48:15[22m[39m[1m[39m[22m
+[90mTS2322: [39mType 'User[]' is not assignable to type 'never'.
+  [0m [90m 46 |[39m               isLoading[33m=[39m{isLoading}
+   [90m 47 |[39m               fetchTickets[33m=[39m{fetchTickets}
+  [31m[1m>[22m[39m[90m 48 |[39m               users[33m=[39m{users}
+   [90m    |[39m               [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m 49 |[39m             [33m/[39m[33m>[39m
+   [90m 50 |[39m           }
+   [90m 51 |[39m         [33m/[39m[33m>[39m[0m
+
+[1m[31mERROR[39m[22m in [1m./client/src/app/tickets/tickets.tsx:[32m[1m98:12[22m[39m[1m[39m[22m
+[90mTS2769: [39mNo overload matches this call.
+  Overload 1 of 2, '(props: { component: ElementType<any>; } & BoxOwnProps<Theme> & Omit<any, keyof BoxOwnProps<Theme>>): any', gave the following error.
+    Type 'boolean' is not assignable to type 'Key | null | undefined'.
+  Overload 2 of 2, '(props: DefaultComponentProps<BoxTypeMap<{}, "div", Theme>>): any', gave the following error.
+    Type 'boolean' is not assignable to type 'Key | null | undefined'.
+  [0m [90m  96 |[39m   [36mreturn[39m (
+   [90m  97 |[39m     [33m<[39m[33m>[39m
+  [31m[1m>[22m[39m[90m  98 |[39m       [33m<[39m[33mBox[39m key[33m=[39m{key}[33m>[39m
+   [90m     |[39m            [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+   [90m  99 |[39m         [33m<[39m[33mdiv[39m className[33m=[39m[32m'action-buttons'[39m[33m>[39m
+   [90m 100 |[39m           [33m<[39m[33mButton[39m
+   [90m 101 |[39m             variant[33m=[39m[32m'contained'[39m[0m
+
+webpack compiled with [1m[31m5 errors[39m[22m (7ce9af4364e3d484)
+<i> [1m[32m[webpack-dev-middleware] wait until bundle finished: /[39m[22m
+Entrypoint [1mmain[39m[22m [1m[33m[big][39m[22m 2.99 MiB (3.51 MiB) = 6 assets 6 auxiliary assets
+Entrypoint [1mstyles[39m[22m 223 KiB (281 KiB) = [1m[32mruntime.js[39m[22m 50.8 KiB [1m[32m1.7ce9af4364e3d484.hot-update.js[39m[22m 351 bytes [1m[32mstyles.css[39m[22m 120 bytes [1m[32mstyles.js[39m[22m 172 KiB [1m[32m2.7ce9af4364e3d484.hot-update.js[39m[22m 524 bytes 5 auxiliary assets
+chunk (runtime: runtime) [1m[32mmain.css[39m[22m, [1m[32mmain.js[39m[22m, [1m[32m0.7ce9af4364e3d484.hot-update.js[39m[22m (main) 82.7 KiB (javascript) 7.17 KiB (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mruntime.js[39m[22m, [1m[32m1.7ce9af4364e3d484.hot-update.js[39m[22m (runtime) 34.1 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mstyles.css[39m[22m, [1m[32mstyles.js[39m[22m, [1m[32m2.7ce9af4364e3d484.hot-update.js[39m[22m (styles) 166 KiB (javascript) 81 bytes (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mvendor.js[39m[22m (vendor) (id hint: vendor) 2.56 MiB [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m [1m[33msplit chunk (cache group: vendor) (name: vendor)[39m[22m
+chunk (runtime: runtime) [1m[32m4.js[39m[22m (id hint: vendors) 30.5 KiB [1m[32m[rendered][39m[22m [1m[33msplit chunk (cache group: defaultVendors)[39m[22m
+chunk (runtime: runtime) [1m[32m5.js[39m[22m 4.28 KiB [1m[32m[rendered][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (abf720651c9d95e6)
+Entrypoint [1mmain[39m[22m [1m[33m[big][39m[22m 2.9 MiB (3.44 MiB) = 6 assets 6 auxiliary assets
+Entrypoint [1mstyles[39m[22m 223 KiB (281 KiB) = [1m[32mruntime.js[39m[22m 50.8 KiB [1m[32m1.abf720651c9d95e6.hot-update.js[39m[22m 351 bytes [1m[32mstyles.css[39m[22m 120 bytes [1m[32mstyles.js[39m[22m 172 KiB [1m[32m2.abf720651c9d95e6.hot-update.js[39m[22m 524 bytes 5 auxiliary assets
+chunk (runtime: runtime) [1m[32mmain.css[39m[22m, [1m[32mmain.js[39m[22m, [1m[32m0.abf720651c9d95e6.hot-update.js[39m[22m (main) 82.7 KiB (javascript) 7.17 KiB (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mruntime.js[39m[22m, [1m[32m1.abf720651c9d95e6.hot-update.js[39m[22m (runtime) 34.1 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mstyles.css[39m[22m, [1m[32mstyles.js[39m[22m, [1m[32m2.abf720651c9d95e6.hot-update.js[39m[22m (styles) 166 KiB (javascript) 81 bytes (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mvendor.js[39m[22m (vendor) (id hint: vendor) 2.56 MiB [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m [1m[33msplit chunk (cache group: vendor) (name: vendor)[39m[22m
+chunk (runtime: runtime) [1m[32m4.js[39m[22m (id hint: vendors) 30.5 KiB [1m[32m[rendered][39m[22m [1m[33msplit chunk (cache group: defaultVendors)[39m[22m
+chunk (runtime: runtime) [1m[32m5.js[39m[22m 4.28 KiB [1m[32m[rendered][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (6edf47ce70ebfa6a)
+Entrypoint [1mmain[39m[22m [1m[33m[big][39m[22m 2.99 MiB (3.51 MiB) = 6 assets 6 auxiliary assets
+Entrypoint [1mstyles[39m[22m 223 KiB (281 KiB) = [1m[32mruntime.js[39m[22m 50.8 KiB [1m[32m1.6edf47ce70ebfa6a.hot-update.js[39m[22m 351 bytes [1m[32mstyles.css[39m[22m 120 bytes [1m[32mstyles.js[39m[22m 172 KiB [1m[32m2.6edf47ce70ebfa6a.hot-update.js[39m[22m 524 bytes 5 auxiliary assets
+chunk (runtime: runtime) [1m[32mmain.css[39m[22m, [1m[32mmain.js[39m[22m, [1m[32m0.6edf47ce70ebfa6a.hot-update.js[39m[22m (main) 82.7 KiB (javascript) 7.17 KiB (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mruntime.js[39m[22m, [1m[32m1.6edf47ce70ebfa6a.hot-update.js[39m[22m (runtime) 34.1 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mstyles.css[39m[22m, [1m[32mstyles.js[39m[22m, [1m[32m2.6edf47ce70ebfa6a.hot-update.js[39m[22m (styles) 166 KiB (javascript) 81 bytes (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mvendor.js[39m[22m (vendor) (id hint: vendor) 2.56 MiB [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m [1m[33msplit chunk (cache group: vendor) (name: vendor)[39m[22m
+chunk (runtime: runtime) [1m[32m4.js[39m[22m (id hint: vendors) 30.5 KiB [1m[32m[rendered][39m[22m [1m[33msplit chunk (cache group: defaultVendors)[39m[22m
+chunk (runtime: runtime) [1m[32m5.js[39m[22m 4.28 KiB [1m[32m[rendered][39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (d76572330ccdf8b4)
